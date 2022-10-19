@@ -1,0 +1,10337 @@
+%Code_Id ADMI 1101
+%Name INTROD.ADMINISTRACION (ADMON) 
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 1102
+%Name INTROD.ADMINISTRACION (NO ADM)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 1103
+%Name TALLER DOCENTE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 1201
+%Name CONTAB.ANALIS.FINANC.(ADMON)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 1202
+%Name CONTAB.ANALIS.FINANC.(NO ADM)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 1203
+%Name PLANEACION FINANCIERA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 1401
+%Name TALLER DE INFORMATICA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 1601
+%Name TALL. HABILIDADES GERENC.
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 1602
+%Name TALLER AUTOCONOCIMIENTO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 1603
+%Name COMPORT. ORGANIZACIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 2104
+%Name HIST. DESAR. EMPR.COL (NO ADM)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 2105
+%Name PROBLEMAS COLOMBIANOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 2106
+%Name TALLER RESPONSAB. SOCIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 2204
+%Name ANALIS. INVERSION FINANC.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 2205
+%Name FINANZAS CORPORATIVAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 2301
+%Name FUNDAMENTOS DE MERCADEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 2302
+%Name SISTEM.INFORMAC.MERCADOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 2402
+%Name OPTIMIZACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 2403
+%Name OPERACIONES Y LOGISTICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 2501
+%Name ANALISIS ENTORNO COLOMBIANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 2605
+%Name ORGANIZACIONES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 2801
+%Name LA GESTION DE LO PUBLICO (ADM)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 2802
+%Name GESTION PUBLICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 3107
+%Name PROYECTOS DIRIGIDOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 3109
+%Name PLANES DE NEGOCIOS
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3110
+%Name CREACION NUEVAS EMPRESAS 
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3111
+%Name ASES. A EMPRESARIOS SOCIALES
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3115
+%Name PROYECTO DE GRADO
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3122
+%Name JUEGO GERENCIAL
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3123
+%Name SEM.PROYECTO GRADO
+%Credits 2
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3125
+%Name MERCADOS VERDES
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3206
+%Name VALORACION DE EMPRESAS
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3207
+%Name MERCADO DE CAPITALES
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3208
+%Name GESTION INSTITUC. FINANCIERAS
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3210
+%Name MERCADOS DERIVADOS
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3308
+%Name CANALES DE DISTRIBUCION
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3311
+%Name MERCADEO INTERNACIONAL
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3315
+%Name GERENCIA DE VENTAS
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3317
+%Name MERCADEO E INTERNET
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3321
+%Name PLANES DE MERCADEO
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3325
+%Name PROJECT MANAGEMENT
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3326
+%Name COMO NEGOCIAR CON CHINA
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3327
+%Name OPCIONES REALES
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3404
+%Name SIMULACION
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3405
+%Name TECNOLOGIA EN  LAS ORGANIZAC.
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3410
+%Name FUNDAM.DESARROLLO PRODUCTOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 3502
+%Name ESTRATEGIA
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3606
+%Name ESTRATEGIAS DE NEGOCIACION 
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3615
+%Name MERCADEO DEPORTIVO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 3701
+%Name NEGOCIOS ENTORNO GLOBAL. 
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ADMI 3704
+%Name COMERC.INTERN.LOGIST.GLOBAL
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3709
+%Name CHINA: MERCADEO Y DESARROLLO
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 3
+%Type NONE
+
+%Code_Id ADMI 3991
+%Name PRACTICA EMPRESARIAL
+%Credits 6
+%Level 3
+%Type NONE
+
+%Code_Id AMOD 5101
+%Name TEORIA DEL ARTE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id AMOD 5301
+%Name HIST.ARTE LATINOAMER.Y COLOMB.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 1101
+%Name FUNDAMENTOS DE ANTROPOLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 1104
+%Name METODOS CUALITATIVOS DE INVEST
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 1105
+%Name LA CONDICION HUMANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 1110
+%Name IDENTIDAD Y COMUNIDAD ANDINAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 1113
+%Name DIVERSIDAD CULTURAL COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 1114
+%Name VIOLENCIA Y CIVILIZACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 1201
+%Name FUNDAMENTOS DE ARQUEOLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 1202
+%Name AZTECAS, MAYAS E INCAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 1203
+%Name DE EVOLUCION CULTURA HUMANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 1205
+%Name COLOMBIA ABORIGEN
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 1206
+%Name NUESTROS ANTEPASADOS PREHIST.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 1401
+%Name ANTROPOLOG�A BIOL�GICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 2101
+%Name ETNOLOGIA DE COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 2103
+%Name ESCUELAS ANTROPOLOGICAS I
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 2106
+%Name ETNOHISTORIA AMERICANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 2114
+%Name SICARIOS:MITO Y REALIDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 2201
+%Name ARQUEOLOGIA COMPARADA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 2202
+%Name ARQUEOLOGIA DE COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 2301
+%Name METODO DE ANALISIS LING�ISTICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3102
+%Name PENSAM. ANTROPOLOGICO COLOMB.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3103
+%Name TEORIAS ANTROPOL.CONTEMPOR.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3115
+%Name SEM. PROBLEMAS ETNOGRAFICOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3123
+%Name SEM. ETNOGRAFIA VISUAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3124
+%Name SEM.BIODIVERSIDAD Y DESARROLLO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3125
+%Name SEM.ANTROPOLOGIA DEL CUERPO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3184
+%Name TRABAJO DIRIGIDO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3191
+%Name METODOLOGIA DE PRACTICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3193
+%Name DISE�O DE MONOGRAFIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3194
+%Name MONOGRAFIA DE GRADO
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3195
+%Name INVESTIGACION DIRIGIDA GRADO
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3207
+%Name SEM.ANALISIS ARQUEOLOGICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3992
+%Name PRACTICA PROFESIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 3993
+%Name PRACTICA DE GRADO
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4101
+%Name SEM.TEORIAS SOCIALES CONTEMPOR
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4102
+%Name SEM.REPRESENTACION CONOCIM.ETN
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4121
+%Name COLOQUIO 1
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4122
+%Name COLOQUIO 2
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4123
+%Name COLOQUIO 3
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4124
+%Name COLOQUIO 4
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4125
+%Name DISE�O DE INVESTIGACION 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4126
+%Name TUTORIA DE INVESTIGACION 1
+%Credits 7
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4128
+%Name DISE�O DE INVESTIGACION 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4153
+%Name SEM. ANTR. Y ARQUEOLO/ PAISAJE
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4156
+%Name SEMINARIO POLITICAS DEL CUERPO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4201
+%Name SEM.TEORIA EN ARQUELOGIA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4202
+%Name SEM.ARQUEOL.COMPARAD INTERMED
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4222
+%Name COLOQUIO ARQUEOLOGIA 2
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4223
+%Name DIS.TRABAJO GRADO ARQUELOGIA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4224
+%Name TRABAJO CAMPO EN ARQUEOLOGIA
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4225
+%Name TRABAJO DE GRADO EN ARQUEOLOGI
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4226
+%Name DISE�O ARQUEOLOGIA 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4227
+%Name DISE�O ARQUEOLOGIA 2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4885
+%Name SEM.TRABAJO CAMPO ARQUEOLOGIA
+%Credits 7
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4986
+%Name SEMINARIO POLITICAS DEL CUERPO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4989
+%Name SEM. ANTR. Y ARQUEOLO/ PAISAJE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4996
+%Name TUTORIA DE INVESTIGACION 2
+%Credits 9
+%Level 2
+%Type NONE
+
+%Code_Id ANTR 4997
+%Name TUTORIA DE INVESTIGACION 1
+%Credits 9
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1010
+%Name PORTAFOLIO REQUISITO DE GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1011
+%Name REQUISITO PORTAFOLIO BASICO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1012
+%Name REQUISITO PORTAFOLIO FORMATIVO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1013
+%Name REQUISITO PORTAFOLIO PROPOSTI.
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1020
+%Name MONOGRAFIA OPCION HIST ART ARQ
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1021
+%Name MONOGRAFIA OPCION ARQU.CIUDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1101
+%Name ARQUITECTURA 1 LOS ELEMENTOS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1102
+%Name ARQUITECTURA 2 LAS RELACIONES
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1103
+%Name TALLER DE DIBUJO 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1104
+%Name TALLER DE DIBUJO 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1201
+%Name TALLER DE HISTORIA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1201
+%Name TALLER DE HISTORIA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1202
+%Name TALLER DE HISTORIA 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1205
+%Name HISTORIA DEL MUEBLE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1206
+%Name HIST  ARQUIT Y CIUDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1301
+%Name TALLER TECNICO 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1302
+%Name TALLER TECNICO 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1304
+%Name HABITABILIDAD LA TIERRA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1305
+%Name CIUDAD Y TECNICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 1402
+%Name ARQU CIUDAD PARA NO ARQUITECTO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2101
+%Name PROYECTO 1 USO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2102
+%Name PROYECTO 2 TECTONICA
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2103
+%Name PROYECTO 3  LUGAR
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2104
+%Name SESION PRACTICA PROYECTO 1 USO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2105
+%Name SESION PRACTICA PROYECTO 2 TEC
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2106
+%Name SESION PRACTICA PROYECTO 3 LUG
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2201
+%Name ARQUETIPOS EN ARQUITECTURA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2202
+%Name ARQUITECTURA CLASICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2301
+%Name TECNICAS 1 LOS SISTEMAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2302
+%Name TECNICAS 2 LOS COMPONENTES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2303
+%Name TECNICAS 3 LOS PROCESOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2401
+%Name CIUDAD 1 TEORIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2402
+%Name CIUDAD 2 ARQUITECTURA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 2403
+%Name CIUDAD 3 PROY URBANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3101
+%Name PROYECTO 4 EDIFICIO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3102
+%Name PROYECTO 5 SECTOR
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3103
+%Name PROYECTO 6 CIUDAD
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3104
+%Name PROYECTO 7
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3105
+%Name PROYECTO 8
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3110
+%Name ANALISIS DE PROYECTOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3111
+%Name DE LA FORMA EN LA ARQUITECTURA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3115
+%Name MODELOS CAD 3D ARQUITECTURA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3126
+%Name INFORMATICA Y MEDIO AMBIENTE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3129
+%Name INTRODUCCION MEDIOS DIGITALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3134
+%Name PROY.ESPEC.: CONCURSO VIVIENDA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3197
+%Name SESION PRACTICA PROYECTO4 EDIF
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3198
+%Name SESION PRACTICA PROYECTO5 SECT
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3199
+%Name SESION PRACTICA PROYECTO6 CIUD
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3204
+%Name ARQUITECTURA LATINOAMERICANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3230
+%Name VIAJE A ORIENTE LE CORBUSIER
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3303
+%Name PROCESOS CONSTRUC: ENVOLVENTES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3304
+%Name CATEDRA DEL CONCRETO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3312
+%Name CONCEPCION ARQ A LA COSTRUCC
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3328
+%Name CIMIENTOS ESTRUCT INSTALAC
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3332
+%Name DETA. ARQ: CONC.INNOV.VIVIENDA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3411
+%Name CIUDAD Y VIVIENDA SOCIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3413
+%Name LABORATORIO PLANEACION URBANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3421
+%Name LABORATORIO DE VIVIENDA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3422
+%Name LA CIUDAD COMO PATRIMONIO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3424
+%Name NARRATIVA URBANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3427
+%Name SEMINA.TALLLER CIUDAD A�OS 50
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3991
+%Name PRACTICA INSTITUC.TIEMPO COMP
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id ARQU 3992
+%Name PRACTICA INSTITUC.TIEMPO PARCI
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1100
+%Name TALLER BASICO ARTES PLASTIC. 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1101
+%Name TALLER BASICO ARTES PLASTIC. 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1102
+%Name ESTRUCTURA DE LA IMAGEN
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1103
+%Name CERAMICA TORNO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1104
+%Name CERAMICA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1105
+%Name FOTOGRAFIA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1106
+%Name FOTOGR.: REALIDAD O ARTIFICIO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1108
+%Name FOTOGRAFIA 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1110
+%Name FOTOGRAFIA DIGITAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1111
+%Name HISTORIA FOTOGRAFIA EN COLOMBI
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1200
+%Name TALLER BASICO MEAT 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1201
+%Name TALLER BASICO MEAT 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1202
+%Name APRECIACION CINEMATOGRAFICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1205
+%Name CINE Y EROTISMO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1208
+%Name ESTETICA AUDIOVISUAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1209
+%Name NUEVOS MEDIOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1210
+%Name IMAGEN DIGITAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1211
+%Name MIRAR EN BOGOTA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1300
+%Name HISTORIA Y TEORIA ARTE: INTRO.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1301
+%Name HISTOR. Y TEORIA ARTE MODERNO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1302
+%Name APRECIACION COMPARADA DEL ARTE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1303
+%Name OJO CON LA IMAGEN
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1305
+%Name INTR. HIST. Y TEORIA DEL ARTE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1306
+%Name ARTE MODERNO: HIST. Y TEORIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1307
+%Name EL ARTE EN LA HIST DE OCCIDENT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1400
+%Name EL ARTISTA Y LAS INSTITUCIONES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1401
+%Name ARTISTA Y ESPACIOS CONTEMPOR.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1404
+%Name ARTISTA, CINE Y SOCIEDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 1405
+%Name EL ARTISTA Y LA CIUDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2100
+%Name DIBUJO DEL CUERPO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2101
+%Name FUNDAMENTOS DE PINTURA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2102
+%Name PROCESOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2103
+%Name DIBUJO CONSTRUCCION ESPACIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2104
+%Name LABORATORIO DEL CUERPO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2106
+%Name DIBUJO DEL CUERPO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2107
+%Name DIBUJO CONSTRUCCION ESPACIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2200
+%Name ACCIONES Y LUGARES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2201
+%Name MEDIOS INTERACTIVOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2202
+%Name PLASTICA SONORA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2203
+%Name VIDEO EXPERIMENTAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2203
+%Name VIDEO EXPERIMENTAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2300
+%Name ARTE CONTEMPORANEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2301
+%Name TEORIA DEL ARTE CONTEMPORANEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2302
+%Name ARTE COLOMBIANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2304
+%Name ARTE EN COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2400
+%Name EDUCACION Y MUSEOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2404
+%Name TALLER DE DOCENCIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 2405
+%Name ARTE Y MATEMATICAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3100
+%Name DIBUJO EXPERIMENTAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3101
+%Name PINTURA, OBJETO Y ESPACIO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3103
+%Name TALLER DE GRABADO 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3104
+%Name BODEGON EMOCIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3105
+%Name ESCULTURA PUBLICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3108
+%Name INSTALACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3109
+%Name SERIGRAFIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3110
+%Name ANTE LA PINTURA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3111
+%Name ARTISTA INVITADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3200
+%Name ARTE Y PROCESOS CIENTIFICOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3201
+%Name ESPACIOS ELECTRONICOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3202
+%Name RED DE REDES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3203
+%Name NARRATIVA NO LINEAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3209
+%Name ANIMACION EXPERIMENTAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3210
+%Name TALLER DE GUION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3300
+%Name ULTIMAS TENDENCIAS DEL ARTE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3301
+%Name APROXIMACION CRITICA CONTEM.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3306
+%Name SEM.TRANSCULTUR.Y CREOLIZACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3309
+%Name ARTE, JUEGO Y VERDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3400
+%Name PUBLICACIONES ARTISTICAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3401
+%Name CURADURIA Y EVENTOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3403
+%Name TALLER DE PROYECTOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3404
+%Name CARTOGRAFIAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3405
+%Name MUSEOGRAFIA Y DISE�.EXPOSICION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3500
+%Name TALLER INTERDISCIPLINARIO 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3501
+%Name TALLER INTERDISCIPLINARIO 2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3502
+%Name ANTEPROYECTO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3503
+%Name PROYECTO FINAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3992
+%Name PRACTICA PROFESIONAL   3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ARTE 3994
+%Name PRACTICA ACADEMICA OBLIGATORIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id AUTO 5210
+%Name INFORMATICA INDUSTRIAL
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id AUTO 5211
+%Name CONTROL POR COMPUTADOR
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id AUTO 5213
+%Name ANALISIS GESTION SISTEMAS PRO.
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id AUTO 5220
+%Name PROCESOS INDUSTRIALES
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id BACT 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 0000
+%Name INDUCCION
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 1210
+%Name GENETICA TECNOLOGIA Y SOCIEDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 1300
+%Name BIOLOGIA DE ORGANISMOS TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 1301
+%Name BIOLOGIA DE ORGANISMOS LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 1310
+%Name ANIMALES VENENOSOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 1312
+%Name BIOLOGIA PARA PSICOLOGIA TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 1313
+%Name BIOLOGIA PARA PSICOLOGIA LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 1322
+%Name ECOLOGIA PARA NO BIOLOGOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 1324
+%Name BIODIVERSIDAD CONSERVA DESARR
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 1325
+%Name PLANTAS Y EL HOMBRE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 2200
+%Name GENETICA TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 2201
+%Name GENETICA LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 2202
+%Name EVOLUCION TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 2203
+%Name EVOLUCION LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 2302
+%Name INVERTEBRADOS TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 2303
+%Name INVERTEBRADOS LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 2304
+%Name BOTANICA TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 2305
+%Name BOTANICA LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 2306
+%Name VERTEBRADOS MODULO 1
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 2307
+%Name VERTEBRADOS MODULO 2
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 2308
+%Name ECOLOGIA TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 2309
+%Name ECOLOGIA LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3100
+%Name GENETICA MOLECULAR EUCARIONTES
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3202
+%Name SISTEMATICA FILOGENETICA TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3203
+%Name SISTEMATICA FILOGENETICA LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3300
+%Name FISIOLOGIA ANIMAL TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3301
+%Name FISIOLOGIA ANIMAL LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3302
+%Name FISIOLOGIA VEGETAL TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3303
+%Name FISIOLOGIA VEGETAL LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3304
+%Name BIOLOGIA DEL DESARROLLO TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3305
+%Name BIOLOGIA DEL DESARROLLO LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3324
+%Name BIOLOGIA DE LA CONSERVACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3328
+%Name BIOGEOGRAFIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3900
+%Name PROYECTO DE GRADO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3901
+%Name TRABAJO DE GRADO
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3991
+%Name PRACTICA PROFESIONAL
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 3992
+%Name PRACTICA PROFESIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4206
+%Name SISTEMATICA FILOGENETICA AV.
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4210
+%Name BIOLOGIA MOLECULAR MARINA 2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4211
+%Name FILOGEOGRAFIA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4212
+%Name MECANISMS Y MODELS ESPECIACION
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4301
+%Name BOTANICA SISTEMATICA AV.
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4304
+%Name HERPETOLOGIA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4400
+%Name ANALISIS MULTIVARIADO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4401
+%Name BIOESTADISTICA AVANZADA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4800
+%Name SEMINARIOS DE INVESTIGACION
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4900
+%Name CONVENIO I MAESTRIA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4902
+%Name PROYECTO DE GRADO MAESTRIA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4903
+%Name PROYECTO DE TESIS DOCTORADO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4904
+%Name TESIS DOCTORADO 1
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4905
+%Name TESIS DOCTORADO 2
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4906
+%Name TESIS DOCTORADO 3
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4907
+%Name TESIS DOCTORADO 4
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4908
+%Name TESIS DOCTORADO 5
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4909
+%Name TESIS DOCTORADO 6
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4912
+%Name TRABAJO DE GRADO MAESTRIA 1
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4913
+%Name TRABAJO DE GRADO MAESTRIA 2
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4914
+%Name PASANTIA DOCTORADO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4915
+%Name PASANTIA DOCTORADO 2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOL 4916
+%Name PASANTIA DOCTORADO 3
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOM 1101
+%Name INTRODUCCION A LA BIOINGENIERI
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOM 2201
+%Name INTROD. A LA FISIOLOGIA MEDICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id BIOM 4104
+%Name HERRAMIENTAS COMP Y EXPERIMEN
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOM 4130
+%Name PROYECTO ESPECIAL 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOM 4192
+%Name PROCES DE SE�ALES BIOMEDICAS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOM 4230
+%Name PROYECTO ESPECIAL 2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOM 4291
+%Name BIOMECANICA   ORTOPEDIA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOM 4330
+%Name PROYECTO ESPECIAL 3
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOM 4401
+%Name SEMINARIO DE INVESTIGACION
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id BIOM 4404
+%Name TESIS 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id BIOM 4408
+%Name TESIS 2
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id BIOM 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1200
+%Name PENSAD:WEBER, DURKHEIM, MARX
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1202
+%Name PENSAD:NIETZSHE,FREUD,FOUCAULT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1300
+%Name ECONOMIA POLITICA Y SOCIEDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1301
+%Name ECON.POLIT:LIBERALISMO MARXISM
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1302
+%Name ECONOMIA POLITICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1403
+%Name HIST Y FILO DE LA CIENCIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1404
+%Name HISTORIA DE LA CIENCIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1500
+%Name COLOMBIA CONTEMPORANEA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1615
+%Name PROB ESTUDIOS CULTURALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1616
+%Name LA ESCUELA DE FRANKFURT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1621
+%Name CULTURA E IDEOLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1622
+%Name SEXO,CULTURA Y SOCIEDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1623
+%Name TEOR CONTE GENERO Y SEXUALIDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1624
+%Name TEOR CONTEM DE LA JUSTICIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1803
+%Name ILEGALIDAD EN COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1808
+%Name GUERRA Y PAZ EN COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CISO 1809
+%Name MEDIO AMBIENTE EN COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CJAV 3001
+%Name CONVENIO UNIVERSIDAD JAVERIANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CJAV 3002
+%Name CONVENIO UNIVERS.JAVERIANA 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CNAL 3001
+%Name CONVENIO UNIVERSIDAD NACIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CNAL 3004
+%Name CONVENIO UNIVERSIDAD NACIONAL3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 1000
+%Name INTRODUCC.CIENC.POLITICA.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 1100
+%Name INTROD.POLITICA COMPARADA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 1200
+%Name INTROD.RELAC.INTERNAC.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 1300
+%Name INTROD. POLITICA COLOMBIANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 1400
+%Name INTRODUCCION TEORIA POLITICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 1500
+%Name FUNDAMENTOS DE METOLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2001
+%Name INVESTIGACION DIRIGIDA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2109
+%Name EMPRESARIOS Y POLITICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2113
+%Name AMERICA LATINA: POBL CONTEM
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2120
+%Name TERRORISMO URBANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2121
+%Name TEORIAS CONTEMP POLIT COMP
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2204
+%Name TEORIA RELACIONES INTERNAC.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2207
+%Name ECONOMIA POLITICA INTERNACIONA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2213
+%Name CINE POLITICA Y SOCIEDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2305
+%Name ESTADO NACION EN COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2310
+%Name MOV.SOCIAL DEMOCR.COLOMB.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2317
+%Name EL CONGRESO:UN DEBATE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2320
+%Name PARTICIP,CIUDAD Y DEMOC.PARTI
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2401
+%Name TEORIAS DEL ESTADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2407
+%Name APROXIMAC TEORICA POL. PUBL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2408
+%Name PENSAM.POLIT.ANTIGUED NTR.DIAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2501
+%Name TALLER METODOLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 2501
+%Name TALLER METODOLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3001
+%Name EX PREP POL COM Y REL INT
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3002
+%Name TESIS
+%Credits 9
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3003
+%Name MONOGRAFIA DE GRADO
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3100
+%Name SEM POLITICA COMPARADA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3101
+%Name EX.PREP.POLIT.COMPARADA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3200
+%Name SEM RELACIONES INTERNACIO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3201
+%Name EX PREP REL INTERNACIONALES
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3300
+%Name SEM POLITICA COLOMBIANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3301
+%Name EX PREP POLITICACOLOMBIANA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3400
+%Name SEM FILOSOFIA POLITICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3401
+%Name EX PREP TEORIA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3500
+%Name SEMINARIO INVESTIGACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3500
+%Name SEMINARIO INVESTIGACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3501
+%Name EX PREP METODOLOGIA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3502
+%Name EX PREP METODOLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3991
+%Name PRACTICA PROFES. 6 CREDITOS
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 3992
+%Name PRACTICA PROFES. 3 CREDITOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 4101
+%Name METODOS DE INVESTIG.CIEN.POLIT
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 4101
+%Name METODOS DE INVESTIG.CIEN.POLIT
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 4103
+%Name TRABAJO DE GRADO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 4201
+%Name ANALISIS POLITICO COLOMBIANO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 4203
+%Name SEMINARIO ANALISIS POLITICO II
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 4204
+%Name ANALISIS DE CONFLICTOS ARMADOS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 4205
+%Name MEDIACION Y PROCESOS DE PAZ
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 4401
+%Name FILOSOFIA Y TEORIA POLITICA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 4403
+%Name TEORIA POLITICA II
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 4404
+%Name ENFOQUES RELACIONES INTERNAC.
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 4405
+%Name ORDEN GLOBAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 4407
+%Name ECONOMIA POLITICA INTERNAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id CPOL 4408
+%Name TEORIA DE LA CULTURA POLITICA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id CULT 1200
+%Name CORO PREPARATORIO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id CULT 2200
+%Name CORO UNIANDES
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id DCOM 5100
+%Name LEGAL ENGLISH
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id DCOM 5201
+%Name TITULOS VALORES
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id DCOM 5202
+%Name PROPIEDAD INDUSTRIAL
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id DCOM 5203
+%Name PROCESOS CONCURSALES
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id DCOM 5204
+%Name SOCIEDADES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DECA 1101
+%Name PRACTICA SOCIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DECA 1102
+%Name PRACTICA SOCIAL 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DECA 1201
+%Name TALLER HABILIDADES APRENDIZAJE
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id DECA 2201
+%Name INTERCAMBIO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id DENI 5703
+%Name OPERACIONES Y CONTRATOS INTERN
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DENI 5704
+%Name CAMBIOS INTERN.Y TRIBUT.INTERN
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id DENI 5705
+%Name FINANZAS Y MDOS INTERNALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DENI 5706
+%Name SOLUCION CONFLICTOS Y NEGOCIAC
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1200
+%Name ABDOMEN DE IMPACTO
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1201
+%Name AIKIDO
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1203
+%Name BEISBOL
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1204
+%Name BILLAR
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1204
+%Name BILLAR FEMENINO
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1204
+%Name BILLAR
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1205
+%Name CHI KUNG
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1206
+%Name CUERPO TOTAL
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1207
+%Name DANZA CONTEMPORANEA
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1207
+%Name DANZA CONTEMPORANEA
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1208
+%Name STRETCHING (ESTIRAMIENTO)
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1210
+%Name GIMNASIA OLIMPICA
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1212
+%Name KICKBOXING
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1213
+%Name RUMBA AEROBICA
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1214
+%Name SOFTBOL
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1216
+%Name TAEKWONDO
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1217
+%Name TAI CHI
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1218a
+%Name TENIS DE CAMPO PRINCIPIANTES
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1218b
+%Name TENIS DE CAMPO INTERMEDIOS
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1218c
+%Name TENIS DE CAMPO AVANZADOS
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1219a
+%Name TENIS DE MESA PRINCIPIANTE
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1219b
+%Name TENIS DE MESA INTERMEDIO
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1219c
+%Name TENIS DE MESA AVANZADO
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1220
+%Name YOGA
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1221
+%Name FRISBEE ULTIMATE
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1221
+%Name SELECCION FRISBEE ULTIMATE
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1222
+%Name ESCALADA EN MURO
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1224
+%Name DEFENSA PERSONAL
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1225
+%Name KUNG FU
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1226
+%Name KARATE
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 1227
+%Name PILATES
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 2202
+%Name DANZA CONTEMPORANEA ANDANZA
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 3100a
+%Name SELECCION BALONCESTO FEMENINA
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 3100b
+%Name SELECCION BALONCESTO MASCULINO
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 3101a
+%Name SELECCION FUTBOL FEMENINA
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 3101b
+%Name SELECCION FUTBOL MASCULINO
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 3102a
+%Name SELECCION MICROFUTBOL FEMENINA
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 3102b
+%Name SELECCION MICROFUTBOL MASCULIN
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 3103a
+%Name SELECCION RUGBY FEMENINA
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 3103b
+%Name SELECCION RUGBY MASCULINO
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 3104
+%Name SELECCION SQUASH
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 3105a
+%Name SELECCION VOLEIBOL FEMENINA
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DEPO 3105b
+%Name SELECCION VOLEIBOL MASCULINO
+%Credits 0.5
+%Level 2
+%Type NONE
+
+%Code_Id DERE 1101
+%Name INTRODUCCION AL DERECHO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DERE 1102
+%Name LOGICA Y RETORICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 1103
+%Name SOCIOLOGIA JURIDICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 1200
+%Name FUNDAMENTOS DE DERECHO PARA NO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 1201
+%Name DERECHO ROMANO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DERE 1300
+%Name CONSTITUCION Y DEMOCRACIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 1301
+%Name TEORIA GENERAL DEL ESTADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 1901
+%Name EXAMEN DE CICLO 1
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2101
+%Name HISTORIA DE LAS INSTITUCIONES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2102
+%Name TEORIA JURIDICA
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2103
+%Name ETICA PROFESIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2201
+%Name OBLIGACIONES I
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2202
+%Name OBLIGACIONES II
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2203
+%Name PROCEDIMIENTOS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2204
+%Name PRUEBAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2205
+%Name CONTRATOS
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2206
+%Name PROPIEDAD Y DERECHOS REALES
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2207
+%Name ARGUMENTACION EN PROCESOS CIVI
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2208
+%Name RELACIONES FAMILIARES
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2210
+%Name PROCEDIMIENTO ADMINISTRATIVO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2211
+%Name DERECHO COMERCIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2301
+%Name DERECHO CONSTITUCIONAL
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2302
+%Name JUEZ E INTERPRET CONSTITUCIONA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2303
+%Name DERECHO PUBLICO ADMINISTRATIVO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2304
+%Name LEGISLACION Y POLITICAS PUBLIC
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2305
+%Name HACIENDA PUBLICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2306
+%Name PROCESAL CIVIL GENERAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2307
+%Name PROCESAL CIVIL ESPECIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2308
+%Name PROCESAL LABORAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2401
+%Name DERECHO PENAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2402
+%Name ARGUMENTACION EN EL PROCESO PE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2403
+%Name PENAL ESPECIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2501
+%Name RELACIONES LABORALES
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2601
+%Name DERECHO INTERNAL (INGLES)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2601
+%Name DERECHO INTERNACIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2602
+%Name DERECHO COMPARADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2901
+%Name EXAMEN ESCRITO DE CICLO 2
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id DERE 2902
+%Name EXAMEN ORAL DE CICLO 2
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3101
+%Name HERMENEUTICA JUR.(2 SEM)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3101
+%Name HERMENEUTICA JUR.(2 SEM)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3102
+%Name TEORIA DEL DERECHO PUBLICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3103
+%Name TEORIA DEL DERECHO PRIVADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3122
+%Name DERECHO DE INTERES PUBLICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3201
+%Name SOCIEDADES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3202
+%Name TITULOS VALORES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3203
+%Name CONTRATOS COMERCIALES Y FINANC
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3204
+%Name PROCESOS EJECUTIVOS, DECLARATI
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3204
+%Name PROCESOS EJECUTIVOS, DECLARATI
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3207
+%Name DERECHO DE LA COMPETENCIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3210
+%Name DERECHOS DE AUTOR (3 CREDITOS,
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3301
+%Name RESPONSABILIDAD DEL ESTADO (3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3302
+%Name ACCIONES PUBLICAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3303
+%Name CONTRATOS ESTATALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3309
+%Name TRIBUTARIO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3314
+%Name SERVICIOS PUBLICOS Y REGULACIO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3401
+%Name PROCESAL PENAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3502
+%Name SEGURIDAD SOCIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3504
+%Name TUTELA Y CONTROL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3601
+%Name DERECHO INTERNACIONAL 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3603
+%Name ARBITRAJE NACIONAL E INTERNAL.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3604
+%Name DERECHO INTERNACIONAL DE DDHH
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3608
+%Name CONCURSO INTERAMERICANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3609
+%Name CONCURSO PHILIP JESSUP
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3610
+%Name CONCURSO RENE CASSIN
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3611
+%Name NEGOCIOS INTERNACIONALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3701
+%Name INTERNET: PRINCIPIOS DE SEGURI
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3801
+%Name CONSULTORIO JURIDICO I
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3802
+%Name CONSULTORIO JURIDICO II
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3803
+%Name PRACTICA CTP 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3901
+%Name EXAMEN DE CICLO 3 PRIMERA PART
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3903
+%Name INVESTIGACION DIRIGIDA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DERE 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1103
+%Name DISE�O BASICO 2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1104
+%Name DISE�O BIONICA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1105
+%Name DISE�O CONSTRUCTIVISMO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1106
+%Name DISE�O 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1205
+%Name HISTORIA DEL DISE�O 2
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1206
+%Name FUND FACTORES HUMANOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1207
+%Name METODOS DE DISE�O
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1208
+%Name FUND DE DISE�O IND/TEXTIL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1209
+%Name HISTORIA DEL DISE�O 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1210
+%Name HIS.MANIFESTACIONES ARTISTICAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1220
+%Name RECICLAJE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1223
+%Name COLOR, COLOR Y MAS COLOR
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1226
+%Name ESTET.Y TECNOL.DISE�O OBJETOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1303
+%Name PERSPECTIVA Y  DESCRIPTIVA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1305
+%Name FUNDAMENTOS DE DISE�O GRAFICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1306
+%Name FOTO PRODUCTO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1307
+%Name COMUNICACION VISUAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1308
+%Name EXPRESION 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1405
+%Name EXPRESION TRIDIMENSIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1406
+%Name FIBRAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 1407
+%Name MATERIALES Y TECNICAS 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3106
+%Name DISE�O ESPACIO OPTIMO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3107
+%Name DISE�O PLEGABILIDAD
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3108
+%Name DISE�O SISTEMAS PRODUCTIVOS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3109
+%Name DISE�O SALUD
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3110
+%Name DISE�O INTEGRAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3111
+%Name DISE�O GESTI�N
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3117
+%Name TALLER AMBIENTES INTERACTIVOS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3119
+%Name TALLER RAD
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3202
+%Name CREATIVIDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3209
+%Name SEMIOTICA Y GESTALT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3210
+%Name FACTORES HUMANOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3210
+%Name FACTORES HUMANOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3212
+%Name SEMINARIO DE INVESTIGACION
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3213
+%Name SEMINARIO INTEGRAL
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3214
+%Name DISE�O INDUSTRIA GLOBALIZACION
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3301
+%Name DIBUJO A MANO ALZADA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3308
+%Name DISE�O EN MEDIOS INTERACTIVOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3310
+%Name PRES DISE�O PORTAFOLIO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3312
+%Name TALLER DIGITAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3315
+%Name WEB: DISE�O E INTERACCION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3317
+%Name EL CALZADO COMO PROD DISENO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3319
+%Name LAB. INTELIGENCIA DE CONSUMO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3402
+%Name JOYERIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3403
+%Name VITRALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3404
+%Name AEROMODELISMO BASICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3405
+%Name MODELISMO NAVAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3407
+%Name CERAMICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3408
+%Name TERMOPLASTICOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3409
+%Name DESARROLLO PRODUCTO SOSTENIBLE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3410
+%Name METALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3411
+%Name EMPAQUES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3413
+%Name ACABADOS CERAMICOS Y VITRA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3501
+%Name NEGOCIACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3991
+%Name PRACTICA EMPRESARIAL
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id DISE 3992
+%Name PRACTICA EMPRESARIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DIUN 4504
+%Name TRABAJO FINAL (TESIS)
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id DIUN 4505
+%Name SEMINARIO DE ACTUALIZACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3201
+%Name INTRO A TEXTILES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3202
+%Name FUNDAMENTOS TEJIDO PLANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3204
+%Name FUNDAMENTOS DE ESTAMPACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3301
+%Name DISE�O ACCESORIOS Y PRENDAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3301
+%Name DISE�O ACCESORIOS Y PRENDAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3402
+%Name PAPEL RECICLADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3402
+%Name PAPEL RECICLADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3402
+%Name PAPEL RECICLADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3402
+%Name PAPEL RECICLADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3403
+%Name TECNICA DE ESTAMPACION MANUAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3404
+%Name PATRONAJE Y CONFECCION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3404
+%Name PATRONAJE Y CONFECCION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3405
+%Name TINTORERIA Y ACABADOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id DTEX 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ECAM 3702
+%Name ECONOMIA AMBIENTAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECAM 4101
+%Name MICROECONOMIA AVANZADA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ECAM 4102
+%Name ECONOMIA DEL BIENESTAR APLIC.
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ECAM 4301
+%Name ECONOMETRIA AVANZADA PEMAR
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id ECAM 4601
+%Name PRE SEMINARIO DE TESIS PEMAR
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id ECAM 4602
+%Name SEMINARIO DE TESIS PEMAR
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id ECAM 4603
+%Name EVALUAC.SUSTENTAC.TESIS PEMAR
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id ECAM 4701
+%Name ECONOM.RECURSOS NATURALES
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ECAM 4702
+%Name ECONOMIA AMBIENTAL AVANZADA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ECAM 4703
+%Name ECONOMIA AGRICOLA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ECAM 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ECON 1000
+%Name POBREZA Y RIQUEZA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 1001
+%Name INTROD. ECON COLOMBIANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 1101
+%Name FUNDAMENTOS DE MICROECONOMIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 1202
+%Name MEDICION ECONOMICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 1501
+%Name HISTORIA ECONOMICA GENERAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 1502
+%Name HISTORIA PENSAMIENTO ECONOMICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 2101
+%Name MICROECONOMIA 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 2102
+%Name MICROECONOMIA 3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 2103
+%Name CONTABILIDAD INTERTEMPORAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 2104
+%Name EVAL. SOCIAL PROYECTOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 2105
+%Name TEORIA DE JUEGOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 2106
+%Name TEORIA DEL CONSUMIDOR Y FIRMA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 2201
+%Name MACROECONOMIA 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 2202
+%Name MACROECONOMIA 3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 2301
+%Name ECONOMETRIA 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ECON 2501
+%Name ECONOMIA MARXISTA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 2601
+%Name ECON. LATINOAMERICANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 2701
+%Name MANEJO ABIENTAL Y DE LOS RECUR
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3301
+%Name ECONOMETRIA 2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3401
+%Name COMERCIO INTERNACIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3402
+%Name TEORIA POLIT.MONETARIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3403
+%Name TEORIA POLITICA FISCAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3404
+%Name POL. ECON. COLOMBIANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3501
+%Name HISTORIA ECONOMICA DE COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3502
+%Name HIST.ANALISIS ECONOMICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3502
+%Name HIST.ANALISIS ECONOMICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3602
+%Name MEMORIA DE GRADO
+%Credits 9
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3605
+%Name DESARROLLO ECONOMICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3606
+%Name SEM. ECONOMIA INTERNACIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3609
+%Name SEM. COYUNTURA ECONOMICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3613
+%Name ECONOMIA POLIT.DE LA POL. ECON
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3616
+%Name SEM.DESARROLLO REGIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3620
+%Name ECONOMIA SOCIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3622
+%Name ECONOMETRIA PARA FINANZAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3623
+%Name CRIMNALIDAD,JUST PENALECON
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3624
+%Name SEMINARIO DEL ALCA Y TLC
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3625
+%Name POLITICA DE VIVIENDA COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3626
+%Name INTROD ECONOMIA DEL TRANSPORTE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3628
+%Name FINANZASDE MERCADOS EMERGENTES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3635
+%Name TEOR.FINANZAS PARA ECONOMISTAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3638
+%Name SEM.EVAL.RIESGO CRISIS FINANC.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3640
+%Name ESCOGENCIAS COLECTIVAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3647
+%Name SEM RIESGO SOCIAL Y POBREZA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3649
+%Name RIESGO Y VALORACION DERIVADOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3657
+%Name SEM. TOPICOS ECONOMIA BANCARIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3660
+%Name SEM TECNICAS INVEST APLICADA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3661
+%Name SEM ANALISIS COSTO BENEFICIO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3662
+%Name SEMINARIO CENTRO DE BOGOTA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ECON 3664
+%Name PRODTOS.FINANCIEROS INTERNALES
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ECON 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 3
+%Type NONE
+
+%Code_Id ECON 3991
+%Name PR�CTICA PROFESIONAL 6 CRED.
+%Credits 6
+%Level 3
+%Type NONE
+
+%Code_Id ECON 3992
+%Name PR�CTICA PROFESIONAL  3 CRED.
+%Credits 3
+%Level 3
+%Type NONE
+
+%Code_Id ECON 4101
+%Name MICROECONOMIA AVANZADA
+%Credits 4
+%Level 4
+%Type NONE
+
+%Code_Id ECON 4210
+%Name MACRO AVANZADA 2
+%Credits 4
+%Level 4
+%Type NONE
+
+%Code_Id ECON 4301
+%Name ECONOMETRIA AVANZADA
+%Credits 5
+%Level 4
+%Type NONE
+
+%Code_Id ECON 4303
+%Name TOPICOS ECONOMETRIA AVANZADA
+%Credits 4
+%Level 4
+%Type NONE
+
+%Code_Id ECON 4601
+%Name PRE SEMINARIO DE TESIS
+%Credits 2
+%Level 4
+%Type NONE
+
+%Code_Id ECON 4602
+%Name SEMINARIO DE TESIS PEG
+%Credits 2
+%Level 4
+%Type NONE
+
+%Code_Id ECON 4603
+%Name TESIS PEG
+%Credits 2
+%Level 4
+%Type NONE
+
+%Code_Id ECON 4604
+%Name FIRMAS, CONTRAT. Y ESTR. FINAN
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ECON 4612
+%Name TEORIA ORGANIZACI�N INDUSTRIAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ECON 4614
+%Name SEMINARIO HISTORIA ECONOMICA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ECON 4616
+%Name TOP ECON PUBLICA Y POL FISCAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ECON 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 1000
+%Name AMBIENT.APREND.A TRAVES HISTOR
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 4003
+%Name PRACT.DOCENTE O ADMTVA 1
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 4004
+%Name PRACT.DOCENTE O ADMTVA 2
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 4005
+%Name TESIS 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 4006
+%Name TESIS 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 4010
+%Name CURSO TUTORIAL 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 4012
+%Name EVAL PROG EDUC TEORIA Y PRACT
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 4013
+%Name TUTORIAL 2 CR�DITOS
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 4014
+%Name EDUC.BILINGUE.CONTEXT Y NECESI
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 4100
+%Name PEDAGOGIA Y CURRICULO:TEO.PR.2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 4102
+%Name PENSAMIENTO CRITICO EN EDUCACI
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 4201
+%Name INTROD.ESCUELA INSTIT.APRENDE
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 5100
+%Name CURSO DISCIPLINAR PEDAGOGICO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id EDUC 5901
+%Name CONVIVENCIA Y LENGUAJE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ESIO 5102
+%Name APLICACIONES WEB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ESIO 5104
+%Name BODEGA DATOS MINERIA DATOS
+%Credits 1.5
+%Level 2
+%Type NONE
+
+%Code_Id ESIO 5203
+%Name GESTION PROYEC.Y TECNOL.INFORM
+%Credits 1.5
+%Level 2
+%Type NONE
+
+%Code_Id ESIO 5300
+%Name SISTEMAS DE APOYO A LAS DECISI
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ESIO 5301
+%Name MODELOS EN MERCADEO
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ESIO 5302
+%Name TEORIA DE LA DECISION
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ESLA 2000
+%Name MONOGRAFIA FINAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FCIE 3001
+%Name MONOGRAFIA ESTUDIOS AMBIENTALE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 1000
+%Name LOGICA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 1010
+%Name INTRODUCCION A LA FILOSOFIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 1020
+%Name LING�ISTICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 1110
+%Name ARISTOTELES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 1120
+%Name DESCARTES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 1200
+%Name SOFISTAS GRIEGOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 1210
+%Name FILOSOFIA MEDIEVAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 1220
+%Name FILOSOFIA DE LA INDIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 1420
+%Name ESTETICA CONTEMPORANEA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 1500
+%Name FILOSOFIA DE LAS CIENCIAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 2110
+%Name HEGEL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 2130
+%Name NIETZSCHE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 2270
+%Name SARTRE: LA REL CON EL OTRO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 3000
+%Name SEMINARIO DE MONOGRAFIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 3010
+%Name CODIGO DE MONOGRAFIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 3221
+%Name SEMINARIO TRADUCCION DE LATIN
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 3320
+%Name SEMINARIO MARX
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 3330
+%Name NUSSBAUM: RAZON Y EMOCIONES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FILO 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id FILO 4000
+%Name SEMINARIO FUNDAMENTOS DE ETICA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id FILO 4200
+%Name GADAMER EN LA DISCUSION ACTUAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id FILO 4800
+%Name SEMINARIO DE MONOGRAFIA (MA)
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1000
+%Name PREFISICA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1002
+%Name INTRODUCCION A FISICA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1004
+%Name GRANDES IDEAS DE LA FISICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1007
+%Name LA F�SICA DESDE EL TEATRO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1012
+%Name FISICA BASICA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1013
+%Name LABORATORIO DE FISICA BASICA 1
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1014
+%Name FISICA GENERAL 1
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1015
+%Name LABORAT. DE FISICA GENERAL 1
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1016
+%Name TALLER DE FISICA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1017
+%Name TALLER DE FISICA 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1018
+%Name FISICA I
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1019
+%Name FISICA EXPERIMENTAL I
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1020
+%Name FISICA II
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1021
+%Name FISICA EXPERIMENTAL II
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1022
+%Name FISICA BASICA 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1023
+%Name LABORATORIO DE FISICA BASICA 2
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1024
+%Name FISICA GENERAL 2
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1025
+%Name LABORAT. DE FISICA GENERAL 2
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1030
+%Name FISICA III
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1031
+%Name FISICA EXPERIMENTAL III
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1040
+%Name FISICA IV
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1041
+%Name FISICA EXPERIMENTAL IV
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1090
+%Name COSMOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 1908
+%Name ASTRONOMIA GALACTICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 2007
+%Name METODOS MATEMATICOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 2025
+%Name FISICA COMPUTACIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 2051
+%Name LABORATORIO INTERMEDIO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 2350
+%Name FISICA ATOMICA Y MOLECULAR
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 2405
+%Name MECANICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 2430
+%Name ELECTROMAGNETISMO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 2910
+%Name MEC�NICA CELESTE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 3000
+%Name PRACTICA DOCENTE FISICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 3001
+%Name SEM.MEC.CUANTIC.FISI.INFORMA.
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 3003
+%Name SEM.SIMETRIAS Y GRUP.TEOR.CUAN
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 3010
+%Name MECANICA CUANTICA I
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 3040
+%Name FISICA ESTADISTICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 3099
+%Name PROYECTO DE GRADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 3101
+%Name SEMINARIO DE ALTAS ENERGIAS
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 3150
+%Name FISICA SUBATOMICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 3701
+%Name SEMINARIO MATERIA CONDENSADA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 3760
+%Name FISICA DEL ESTADO SOLIDO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 3884
+%Name BIOF�SICA DE MEMBRANAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 3901
+%Name SEM. ASTRONOMIA Y ASTROFISICA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id FISI 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4001
+%Name SEM.1 MEC.CUANTIC.FISI.INFORMA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4002
+%Name SEM.2 MEC.CUANTIC.FISI.INFORMA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4003
+%Name SEM.SIMETRIA Y GRUP.TEOR.CUANT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4010
+%Name MECANICA CUANTICA AVANZADA 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4072
+%Name INTERACCION RADIACION Y MATERI
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4094
+%Name COSMOLOGIA MODERNA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4098
+%Name TRABAJO DE GRADO (1)
+%Credits 7
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4099
+%Name TRABAJO DE GRADO (2)
+%Credits 7
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4101
+%Name SEMINARIO 1 ALTAS ENERGIAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4102
+%Name SEMINARIO 2 ALTAS ENERGIAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4111
+%Name SEMINARIO AVANZADO 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4114
+%Name SEMINARIO AVANZADO 4
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4115
+%Name SEMINARIO AVANZADO 5
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4116
+%Name SEMINARIO AVANZADO 6
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4150
+%Name PARTICULAS Y CAMPOS I
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4198
+%Name TESIS 4
+%Credits 12
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4405
+%Name MECANICA ANALITICA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4701
+%Name SEMINARIO 1 MATERIA CONDENSADA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4702
+%Name SEMINARIO 2 MATERIA CONDENSADA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4712
+%Name SEMINARIO AVANZADO 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4713
+%Name SEMINARIO AVANZADO 3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4714
+%Name SEMINARIO AVANZADO 4
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4762
+%Name MATERIA CONDENSADA II
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4782
+%Name INVESTIGACION 1
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4784
+%Name INVESTIGACION 2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4785
+%Name INVESTIGACION 2
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4786
+%Name INVESTIGACION 2
+%Credits 12
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4798
+%Name TESIS 4
+%Credits 12
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4901
+%Name SEM.1 ASTRONOMIA Y ASTROFISICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4902
+%Name SEM.2 ASTRONOMIA Y ASTROFISICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id FISI 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id GPOL 5108
+%Name GOBIERNO Y DEMOCRACIA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id GPOL 5109
+%Name CONTEX.COLOMB.GOBIERNO.POL.PUB
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id GPOL 5110
+%Name TEORIAS DE DESARROLLO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id GPOL 5111
+%Name INSTITUCIONES Y DESARROLLO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id GPUB 5603
+%Name DERECHO ECONOMICO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id GPUB 5604
+%Name ACTIVIDAD ADMINISTRATIVA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id GPUB 5605
+%Name RESPONSABILIDAD DEL ESTADO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id GPUB 5607
+%Name CONTROL DE LA ADMON. PUBLICA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id GPUB 5608
+%Name GESTION PUBLICA Y NEGOCIACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id GTEL 5100
+%Name GERENCIA DE MERCADEO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id GTEL 5200
+%Name HABILIDADES GERENCIALES I
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id GTEL 5201
+%Name MARCO INST. DE LAS EMPR.DE T.
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id GTEL 5300
+%Name ORGANIZACION INDUSTRAL
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id GTEL 5301
+%Name REGULACION
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id GTEL 5302
+%Name INNOVACION TECNOLOGICA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id HIST 1101
+%Name INTROD I: PROBLEM.CONOC.HIST.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 1102
+%Name INTROD II:CONCEPTOS HISTORICOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 1203
+%Name HIST. DE LA MUJER EN COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 1207
+%Name HISTORIA REGIONAL DE COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 1208
+%Name DOMIN. Y RESIST. EN HIST. COL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 1301
+%Name VIAJES DE EXPLORACION CIENT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 1303
+%Name RAZA Y NACION EN AME. LATINA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2102
+%Name FUENTES.2.METOD.HISTORIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2103
+%Name HISTORIOGRAFIA DE COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2202
+%Name HISTORIA DE COLOMBIA SIGLO XIX
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2204
+%Name GEOGRAFIA DE COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2205
+%Name HISTORIA DE COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2302
+%Name AMERICA LATINA SIGLO XIX
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2400
+%Name HISTORIA DE RUSIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2402
+%Name MEDIO ORIENTE CONTEMPORANEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2403
+%Name DE BISMARCK A HITLER 1871 1945
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2404
+%Name HISTORIA DE LA EDAD MEDIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2406
+%Name HISTORIA DEL MUNDO ANTIGUO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2407
+%Name GEOGRAFIA GENERAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2408
+%Name HIST MODERN EUROPA S.XVI XVIII
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2413
+%Name VIAJEROS EN AFRICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 2414
+%Name HISTORIA Y SOCIEDAD GLOBAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 3101
+%Name MONOGRAFIA DE GRADO
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id HIST 3103
+%Name SEMINARIO DE TESIS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 3104
+%Name INVESTIGACION DIRIGIDA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 3106
+%Name ASIST. INVESTIGACION GRADO
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id HIST 3111
+%Name SEM. PENSAMIENTO GEOGRAFICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 3203
+%Name SEM. CULTURA POLITICA COLONIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id HIST 3991
+%Name PRACTICA PROFESIONAL
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id HIST 3992
+%Name PRACTICA PROFESIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HIST 3993
+%Name PRACTICA DE GRADO
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id HIST 4300
+%Name INTELECTUALES Y PROC.HISTORICO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id HIST 4601
+%Name SEM. HISTORIA DE LA CIENCIA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id HIST 4603
+%Name CIUDADANIA E IDENTIDAD NAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id HIST 4700
+%Name HISTORIA Y CIENCIAS SOCIALES
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id HIST 4701
+%Name HISTORIOGRAFIA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id HIST 4800
+%Name TALLER DE INVESTIGACION 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id HIST 4801
+%Name TALLER DE INVESTIGACION 2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id HIST 4802
+%Name TALLER DE INVESTIGACION 3
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id HIST 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id HUMA 1000
+%Name LITERATURA DE VIAJES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HUMA 1100
+%Name LITERATURA EN EL TIEMPO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HUMA 1104
+%Name DEMOCRACIA Y VALORES EN GRECIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HUMA 1118
+%Name LO TRAGICO Y LO COMICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HUMA 1200
+%Name LOS LENGUAJES DEL ARTE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HUMA 1202
+%Name COLOMBIA AYER Y HOY
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HUMA 1205
+%Name HOMBRE DEL SIGLO XX
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HUMA 1209
+%Name PUNTO, LINEA Y SUPERFICIE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HUMA 1214
+%Name TRES MOMENTOS EN EL ARTE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HUMA 1215
+%Name NIVEL DE INICIACION ACTORAL
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id HUMA 1216
+%Name GRUPO DE TEATRO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id HUMA 1218
+%Name VIAJE A ITALIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id HUMA 1300
+%Name PENSAR LEER Y ESCRIB. ESPA�OL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 1101
+%Name INTROD. PROBLEMATICA AMBIENTAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 1104
+%Name MECANICA DE SOLIDOS I
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 1105
+%Name MECANICA DE SOLIDOS 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 1106
+%Name MATERIALES INGEN. CIVIL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 1107
+%Name TOPOGRAFIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 1108
+%Name LABORATORIO DE TOPOGRAFIA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 1110
+%Name QUIMICA AMBIENTAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 1111
+%Name AGUA Y AMBIENTE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 1113
+%Name INTRODUCCI�N A ING AMBIENTAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 1114
+%Name INTRODUCCI�N A ING CIVIL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 1500
+%Name TRANSP.URBANO:HIST,MED.AMB,ENE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 2070
+%Name MONITORIA ING. CIVIL Y AMB.
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 2071
+%Name MONITORIA ING. CIVIL Y AMB.
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 2101
+%Name TERMOQUIMICA AMBIENTAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 2102
+%Name MICROBIOLOGIA AMBIENTAL PRE
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 2201
+%Name ESTRUCTURAS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 2202
+%Name HORMIGON 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 2301
+%Name GEOCIENCIAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 2302
+%Name MECANICA DE SUELOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 2303
+%Name LABORATORIO DE SUELOS
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 2401
+%Name MECANICA DE FLUIDOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 2402
+%Name HIDRAULICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 2402
+%Name HIDRAULICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3101
+%Name SEMINARIO DE PROYECTO
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3102
+%Name PROYECTO DE GRADO ING. CIVIL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3103
+%Name PROYECTO DE GRADO ING.AMBIENTA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3104
+%Name PROYECTO ESPECIAL PREGRADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3106
+%Name PROYECTO ESPECIAL 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3201
+%Name CONSTRUCCION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3301
+%Name CIMENTACIONES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3302
+%Name PAVIMENTOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3303
+%Name LABORATORIO DE PAVIMENTOS
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3304
+%Name VIAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3401
+%Name HIDROLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3403
+%Name INGENIERIA SANITARIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3404
+%Name TRAT. FISICOQUIMICO DEL AGUA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3405
+%Name PROCESOS BIOLOGICOS PRE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3406
+%Name MODELACION AMBIENTAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3501
+%Name METEOROLOGIA Y CONTAM. ATMOSFE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3502
+%Name TRANSPORTES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3701
+%Name DESECHOS SOLIDOS PRE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4070
+%Name ASIST. GRAD. ING. CIVI Y AMBIE
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4105
+%Name GEST. AMBIENTAL EN PROYECT
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4118
+%Name PROBLEMATICA AMBIENTAL 2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4120
+%Name RELLENOS SANITARIOS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4123
+%Name EVAL. EXPO. CONT. ATMOSF.
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4200
+%Name PROPUESTA TESIS
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4201
+%Name TESIS 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4202
+%Name TESIS 2
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4203
+%Name PROYECTO ESPECIAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4204
+%Name SEMINARIO INVESTIGACION TESIS1
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4205
+%Name SEMINARIO INVESTIGACION TESIS2
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4207
+%Name TUTORIAL DOCTORADO 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4301
+%Name ADMON PROYECTO CONSTRUC
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4302
+%Name PROGRAMACION Y PRESUPUESTOS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4304
+%Name GERENCIA PROYECTOS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4306
+%Name ASPECTOS LEGALES CONSTRUCCI�N
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4307
+%Name CONCESIONES INFRAESTUCT.
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4401
+%Name COMPRT DINAMICO DE ESTRUCTURAS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4410
+%Name COMPORTAMTO.DISE�.ESTUCTU.ACER
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4415
+%Name INGENIERIA SISMICA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4416
+%Name INTERACC. DINAM. SUELO ESTRU
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4508
+%Name ESTABILIDAD TALUDES
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4512
+%Name CONSTRUCC. SUBTERR�NEAS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4513
+%Name MECANICA MEDIO CONTINUO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4604
+%Name CONSTRUCC.INFRAESTRUCTURA VIAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4701
+%Name DISE�O EN ING HIDR�ULICA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4710
+%Name MODELACION EN HIDROLOGIA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4716
+%Name MODEL. FLUJO Y CONT. ACU�FER.
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4801
+%Name ANAL. SISTEMAS DE TRANSPORTE
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4807
+%Name TRANSPORTE PUBLICO Y MASIVO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ICYA 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 1003
+%Name MODELAJE SIST. DINAMICOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 1004
+%Name FUNDAMENTOS CIRCUITOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 1005
+%Name LAB.FUNDAMENTOS CIRCUITOS
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 1007
+%Name SEMINARIO PROYECTO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 1008
+%Name PROYECTO DE GRADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 1009
+%Name PROBLEMA ESPECIAL (NUMERICO)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 2007
+%Name ANALISIS Y SINTESIS CIRCUITOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 2008
+%Name LAB.SINTESIS CIRCUITOS
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 2009
+%Name TEORIA  ELECTROMAGNETICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 2010
+%Name TALLER TEORIA ELECTROMAGNETICA
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 2011
+%Name MATERIALES Y SEMICONDUCTORES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 2012
+%Name TEORIA DE SE�ALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 2070
+%Name MONIT. ING. ELECTRI Y ELECTRON
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 2071
+%Name MONIT. ING. ELECTRI Y ELECTRON
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 2201
+%Name ANALISIS DE SISTEMAS CONTROL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 2202
+%Name LAB.ANALISIS SIS. CONTROL
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 2412
+%Name FUNDAMENTOS SISTEMAS POTENCIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 2413
+%Name LAB. FUND. SIST. POTENCIA
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 2501
+%Name TRATAMIENTO DIGITAL DE IMAGENE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 3001
+%Name OPTIMIZACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 3105
+%Name EQUIPOS MEDICOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 3401
+%Name ANALISIS DE SISTEMAS POTENCIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 3402
+%Name TALLER DE POTENCIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 3405
+%Name CALIPOTELEC BAJA TENSION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 3601
+%Name COMUNICACIONES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 3602
+%Name LAB. COMUNICACIONES
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 3603
+%Name REDES DE TELECOMUNICACIONES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 3604
+%Name TALLER DE COMUNICACIONES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 3701
+%Name DISE�O SIST. EN TIEMPO REAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4000
+%Name SEMINARIO MAGISTER
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4001
+%Name SEMINARIO MAGISTER 1
+%Credits 0
+%Level 4
+%Type NONE
+
+%Code_Id IEL1 4002
+%Name SEMINARIO MAGISTER 2
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4003
+%Name PROCESOS ESTOCASTICOS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4004
+%Name OPTIMIZACION
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4007
+%Name COMPUTACION SOFT.
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4008
+%Name CURSO TUTORIAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4010
+%Name PROBLEMA ESPECIAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4011
+%Name PROYECTO ESPECIAL 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4012
+%Name PROYECTO ESPECIAL 2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4013
+%Name TESIS 2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4014
+%Name TESIS 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4015
+%Name TESIS 2
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4070
+%Name AS.GRAD.ING.ELECTRI Y ELECTRON
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4204
+%Name TOPICOS AVANZADOS EN CONTROL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4603
+%Name TELETRAFICO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IEL1 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 1001
+%Name INTROD.ING.ELECTR.ELECTRON.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 1001
+%Name INTROD.ING.ELECTR.ELECTRON.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 1002
+%Name LAB.INSTRUMENTOS
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 1003
+%Name FUNDAMENTOS DE SISTEMAS DIGIT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 1004
+%Name LAB.SISTEMAS DIGITALES
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 2301
+%Name ELECTRONICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 2302
+%Name LAB   ELECTRONICA
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 2303
+%Name ARQUITECTURA COMPUTADORES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 2304
+%Name LAB. ARQ. COMPUTADORES
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 3001
+%Name PROYECTO DE GRADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 3301
+%Name ELECTRONICA ANALOGA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 3302
+%Name LAB.ELECTRONICA ANALOGA
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 3303
+%Name ELECTRONICA DIGITAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 3304
+%Name LAB. ELECTRONICA  DIGITAL
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 3305
+%Name TALLER DE ELECTRONICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 3307
+%Name TECNIC. DISE�O ELECTRONICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 3401
+%Name INSTRUMENTACION ELECTRONICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 3402
+%Name LAB.INSTRUMENTACION ELECTRONIC
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 4302
+%Name SENSORES Y MICROSISTEMAS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 4303
+%Name MACHINE LEARNING
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IEL2 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IGEN 1001
+%Name INTROD.INGEN.GENERAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IGEN 1101
+%Name TECNOLOGIA Y SOCIEDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IGEN 1103
+%Name HISTOR.TELECOMUNIC.EN COLOMBIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IGEN 1104
+%Name HISTORIA DE LA TECNOLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IGEN 1105
+%Name TECNOCULTURAS DE AMERICA LATIN
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IGEN 1300
+%Name EDUCACION Y CIENCIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IGEN 3991
+%Name PR�CTICA PROFESIONAL COMPLETA
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id IGEN 4990
+%Name INTERCAMBIO MAESTRIA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id IIND 1000
+%Name INTROD. INGEN. INDUSTRIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 2070
+%Name MONITORIA INGENIERIA INDUSTRIA
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IIND 2100
+%Name PROBABILIDAD Y ESTADISTICA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 2101
+%Name PROBABILIDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 2102
+%Name FUNDAMENTOS ESTADISTICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 2103
+%Name PRINCIPIOS OPTIMIZACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 2104
+%Name MODELOS PROBABILISTICOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 2105
+%Name SIMULAC.EVENTOS DISCRETOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 2200
+%Name DISE�O PRODUCTOS PROCESOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 2201
+%Name CONTROL DE PRODUCCION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 2300
+%Name FUNDAM.ORGANIZACIONES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 2301
+%Name DINAMICA DE SISTEMAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 2400
+%Name SIST. DE CONTROL GERENCIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 2401
+%Name ANALIS.DECISION INVERSION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3000
+%Name PROYECTO DE GRADO 1
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3001
+%Name PROYECTO DE GRADO 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3002
+%Name TRABAJO FINAL OPCION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3003
+%Name PROBLEMA ESPECIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3004
+%Name PROBLEMA ESPECIAL 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3005
+%Name TUTORIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3100
+%Name FLUJO EN REDES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3202
+%Name GERENCIA DE PRODUCCION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3202
+%Name GERENCIA DE PRODUCCION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3203
+%Name GER. TECNOLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3207
+%Name PRODUCCION MAS LIMPIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3208
+%Name DES. AVANZADO DE NUEVOS PROD.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3217
+%Name DINAMICA DE LA INNOVACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3218
+%Name FUNDAMENTOS DE LA CALIDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3300
+%Name PENSAMIENTO SISTEMICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3301
+%Name SISTEMAS PUBLICOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3302
+%Name ESTRATEGIA EMPRESARIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3306
+%Name MODELOS DE DESARROLLO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3309
+%Name RELACIONES INDUSTRIALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3400
+%Name FINANZAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3402
+%Name VALORACION DE EMPRESAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3403
+%Name ECONOMIA INDUSTRIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3501
+%Name DIS. EXPERIMENTOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IIND 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4000
+%Name NIVELATORIOS
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4002
+%Name TESIS 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4003
+%Name TESIS 2
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4004
+%Name TUTORIAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4005
+%Name SEMINARIO DE INVESTIGACION
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4006
+%Name TESIS 3
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4007
+%Name NIVELATORIO ESTOCASTICOS
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4008
+%Name NIVELATORIO OPTIMIZACION
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4070
+%Name ASISTENCIA GRADUADA ING.INDUST
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4100
+%Name MODELOS ESTADIST.LINEALES
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4101
+%Name OPTIMIZACION AVANZADA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4102
+%Name METOD.ESTADISTICOS MULTIVAR.
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4103
+%Name PRON.Y.SERIES DE TIEMPO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4106
+%Name OPTIMIZACION ENTERA Y COMBINAT
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4110
+%Name TUTORIAL INV.OPERACIONES
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4200
+%Name MODELOS CONTROL PRODUCC.
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4202
+%Name PROGRAMACION DE PRODUCCION
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4302
+%Name DIAG. Y DIS. ORGANIZACIONAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4305
+%Name SEMINARIO DE COMPLEJIDAD
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4309
+%Name NEGOCIACION. Y TOMA DE DECIS.
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4317
+%Name TUTORIAL DIREC. Y GESTION
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4403
+%Name TEORIA DE LA DECISION
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4406
+%Name GERENCIA FINANCIERA DEL RIESGO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4501
+%Name FINANZAS BASICAS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4600
+%Name SEM. DE INVEST. EN REFINACION
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4601
+%Name HABILIDADES DIRECTIVAS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IIND 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 1000
+%Name INTRODUCC.INGEN.MECANICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 1000
+%Name INTRODUCC.INGEN.MECANICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 1001
+%Name FUNDAMENTOS DE EXPERIMENTACI�N
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 1410
+%Name CIENCIA DE MATERIALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 1503
+%Name DISE�O GRAFICO EN INGENIER�A
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 1520
+%Name RESISTENCIA DE MATERIALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 1541
+%Name MECANICA VECTORIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 2210
+%Name MECANICA FLUIDOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 2310
+%Name TERMODINAMICA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 2311
+%Name TERMODINAMICA 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 2320
+%Name TRANSFERENC.CALOR
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 2411
+%Name MATERIALES 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 2416
+%Name METALURGIA DE POLVOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 2460
+%Name PROCESOS MECANICOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 2471
+%Name FUNDAMENTOS DE MECANIZADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 2530
+%Name INTRODUCC.DISE�O
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 2541
+%Name MECANISMOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 3250
+%Name AERODINAMICA BASICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 3341
+%Name MOTORES DE COMBUSTION INTERNA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 3531
+%Name DISE�O ELEMENTOS MECANICOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 3600
+%Name INGENIERIA EXPERIMENTAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 3700
+%Name SEM.PROYECTOS
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 3701
+%Name PROYECTO GRADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 4000
+%Name TECNICAS DE EXPERIMT. E INSTRU
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 4200
+%Name TERMOFLUIDOS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 4400
+%Name MATERIALES Y MANUFACTURA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 4501
+%Name DISENO AVANZADO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 4700
+%Name SEM. DE MAGISTER
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 4701
+%Name TESIS 1
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 4702
+%Name TESIS 2
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 4800
+%Name PROB. ESPECIAL MAGISTER
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id IMEC 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 1001
+%Name INTROD.INGENIERIA QUIMICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 2000
+%Name BIOQUIMICA MACROMOLECULAS
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 2001
+%Name LAB.BIOQUIM.MACROMOLEC.
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 2010
+%Name ESTEQUIOMETR.PROCES.INDUST.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 2020
+%Name TERMOQUIMICA I
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 2020
+%Name TERMOQUIMICA I
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 2021
+%Name TERMOQUIMICA II
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 2021
+%Name TERMOQUIMICA II
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 2022
+%Name TERMOQUIMICA INDUSTRIAL
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 2070
+%Name MONITORIA INGENIERIA QUIMICA
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3000
+%Name TRANSFERENCIA MASA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3001
+%Name TRANSFERENCIA MASA 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3010
+%Name OPERACIONES UNITARIAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3011
+%Name LAB.INGEN.QUIMICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3020
+%Name CINETIC.APLIC.DISE.REACTOR.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3030
+%Name PROCESOS INDUSTRIALES
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3031
+%Name DISE�O PLANTAS DE PROCESO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3090
+%Name SEM.PROYECTO GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3091
+%Name PROYECTO DE GRADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3103
+%Name ASPECTOS FISICOS DE POLIMEROS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3201
+%Name INGENIERIA BIOPROCESOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3401
+%Name INTRO. A LAS REAC. CATALITICAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3405
+%Name INTRO. MODEL. Y SIMUL. ING.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3501
+%Name PROYECTO ESPECIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3502
+%Name PROYECTO ESPECIAL II
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IQUI 4070
+%Name ASISTENCIA GRADUADA ING.QUIMIC
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 1001
+%Name INTRODUC. A ING.DE SISTEMAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 1101
+%Name HERRAMIENTAS DE DEDUC FORMAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 1102
+%Name FUND. CIENCIAS DE COMPUTACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 1202
+%Name TALLER PROGRAMACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 1204
+%Name ALGORITMICA Y PROGR. OBJ. I
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 1205
+%Name ALGORITMICA Y PROGR. OBJ. II
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 1206
+%Name ESTRUCTURAS DE DATOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 1301
+%Name FUNDAMENTOS DE TECNOLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 1601
+%Name PENSAMIENTO SISTEMICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 2002
+%Name SEMINARIO DE GRUPOS II
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 2003
+%Name SEMINARIO DE GRUPOS 3
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 2070
+%Name MONITORIA IINGENIERIA SISTEMAS
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 2102
+%Name TEORIA DE LENGUAJES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 2103
+%Name DISENO DE ALGORITMOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 2301
+%Name ARQ.COMPUT.PROG.SISTEMAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 2302
+%Name SISTEMA OPERACIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 2401
+%Name INTERCONECTIVIDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 2501
+%Name CONCEPTOS BASICOS DE BASES DE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 2701
+%Name INGENIERIA DE SOFTWARE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3003
+%Name CICLO TERMINAL 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3007
+%Name PROYECTO DE GRADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3101
+%Name SEM.INVEST.METODOS FORMALES
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3401
+%Name SEM.INV.REDES,PARALEL.S.DISTRI
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3415
+%Name MODELAJE Y ESTANDARES SEGURIDA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3501
+%Name SEM.INVEST.ING. INFORMAC.
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3601
+%Name SEM. INVESTIGACION TESO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3613
+%Name DISE�O ORGANIZACIONAL CON TIC
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3701
+%Name SEM.INV.CONSTRUCCION SW
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3702
+%Name ARQUITECTURA DE SOFTWARE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3801
+%Name SEM.INVEST.INFORMAT.GRAFIC.
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3806
+%Name INTERACCION HOMBRE MAQUINA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3807
+%Name ROBOTICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3889
+%Name TUTORIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 4000
+%Name TESIS I
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 4001
+%Name TESIS II
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 4002
+%Name TUTORIAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 4301
+%Name SISTEMAS DISTRIBUIDOS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 4411
+%Name REDES MOVILES
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 4502
+%Name TECN. Y DIS. DE PERSISTENCIA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 4506
+%Name ARQUITECTURAS DE DATOS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 4610
+%Name SISTEMAS EMPRESARIALES
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 4705
+%Name CALIDAD DE SOFTWARE
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 4804
+%Name PROC. ANALISIS IMAGENES
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id ISIS 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id IVTR 5500
+%Name MECANICA DE SUELOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IVTR 5501
+%Name LABORATORIO DE SUELOS
+%Credits 1.5
+%Level 2
+%Type NONE
+
+%Code_Id IVTR 5502
+%Name ASPECTOS AMBIENTALES Y RIESGOS
+%Credits 1.5
+%Level 2
+%Type NONE
+
+%Code_Id IVTR 5503
+%Name CONSTRUCC.EN INFRAESTRUCT.VIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IVTR 5504
+%Name ESTABILIDAD DE TALUDES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id IVTR 5505
+%Name GERENCIA DE PROYECTOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LEGI 5501
+%Name ASPECTOS JURIDICOS ECONOMICOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LEGI 5503
+%Name INTERV. ESTADO SECTOR FINANCIE
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id LEGI 5505
+%Name GERENCIA FINANCIERA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id LEGI 5520
+%Name SEMINARIOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1101
+%Name INGLES 1
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1102
+%Name INGLES 2
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1103
+%Name INGLES 3
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1104
+%Name INGLES 4
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1105
+%Name INGLES 5
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1106
+%Name INGLES 6
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1113
+%Name INGLES 3 LENGUAJES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1201
+%Name FRANCES 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1202
+%Name FRANCES 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1203
+%Name FRANCES 3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1204
+%Name FRANCES 4
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1211
+%Name FRANCES 1   PROFUNDIZACION
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1212
+%Name FRANCES 2   PROFUNDIZACION
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1213
+%Name FRANCES 3   PROFUNDIZACION
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1214
+%Name FRANC�S 4 PROFUNDIZACI�N
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1301
+%Name ALEMAN 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1302
+%Name ALEMAN 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1303
+%Name ALEMAN 3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1304
+%Name ALEMAN 4
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1311
+%Name ALEMAN 1   PROFUNDIZACION
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1312
+%Name ALEMAN 2   PROFUNDIZACION
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1313
+%Name ALEMAN 3   PROFUNDIZACION
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1402
+%Name JAPONES 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1403
+%Name JAPONES 3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1404
+%Name JAPONES 4
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1421
+%Name RUTAS Y REGIONES DE ASIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1424
+%Name LITER.PENSAM.JAPONES CONTEMP.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1431
+%Name CINE JAPON�S
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1433
+%Name LENGUAJE DEL BUDISMO ZEN
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1434
+%Name HIST CULT JAPONESA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1501
+%Name ESPA�OL: DISCURSO E IDENTIDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1530
+%Name TEATRO Y SOCIEDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1601
+%Name ITALIANO 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1602
+%Name ITALIANO 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1603
+%Name ITALIANO 3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1604
+%Name ITALIANO 4
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1621
+%Name CLASICOS DEL CINE ITALIANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1702
+%Name PORTUGUES 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1741
+%Name CHINO 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1742
+%Name CHINO 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1743
+%Name CHINO 3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1744
+%Name CHINO 4
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1903
+%Name TEORIAS DEL LENGUAJE 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1924
+%Name HITOS Y NACION COLOMBIANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 1930
+%Name CULTURAS URBANAS EN BTA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 2111
+%Name INGLES 5
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 2211
+%Name FRANCES 5
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 2212
+%Name FRANCES 6
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 2311
+%Name ALEMAN 5
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 2312
+%Name ALEMAN 6
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 2411
+%Name JAPONES 5
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 2550
+%Name CULTURA E IMAGINARIOS AM.LATI.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 2556
+%Name IDENTIDAD EN AM LAT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 2558
+%Name CULTURA, DISCURSO Y JUSTICIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 2999
+%Name REQUISITO LECTURA INGLES
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3000
+%Name EXAMEN CARRERA LENGUAJES
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3123
+%Name THE WRITINGS OF TONI MORRISON
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3162
+%Name REEL AMERICA (USA)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3171
+%Name CULTURAL POLITICS IN THE MEDIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3179
+%Name NATURE AND SOCIETY IN UK
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3180
+%Name HUMAN CONDITION: HANNA ARENDT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3181
+%Name SHOW ME THE MONEY: U.S CINEMA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3209
+%Name SEXUALIT� ET AUTRES D�MO.YOURC
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3216
+%Name EL DON JUAN DE MOLI�RE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3307
+%Name DEUTSCHLAND GLOBALEN KONTEXT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3342
+%Name KULTUR IN DEUTSCHLAND XX
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3699
+%Name MONOGRAF�A ITALIANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3801
+%Name TEORIA DE LA TRAD.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3814
+%Name TALLER ANALIS.TRADUCCION 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3902
+%Name METODOS Y ESTRATEGIAS 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3921
+%Name PRACTICA DOCENTE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3953
+%Name PROCESOS TEXTUALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3994
+%Name PROYECTO DE GRADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3998
+%Name MONOGRAFIA DE GRADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LENG 3999
+%Name REQUISIT.DOMINIO LENG. EXTRAN.
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LENG 4999
+%Name REQUISITO IDIOMAS MAGISTER
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1100
+%Name INTR.A LOS ESTUDIOS LITERARIOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1101
+%Name TEORIA I: POETICAS CLASICAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1200
+%Name LINGUISTICA GENERAL II
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1301
+%Name IMAGENES TEMPRANAS AMERICA LAT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1304
+%Name LITERATURA ESPA�OLA S. DE ORO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1306
+%Name HISPANOAMERICA.SUS GRANDES PRE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1400
+%Name LATIN 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1401
+%Name GRIEGO I
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1402
+%Name LATIN II
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1501
+%Name NOVELA FRANCESA SIGLO 19
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1503
+%Name GOETHE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1506
+%Name V. WOOLF: SIMBOLOS DEL TIEMPO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1543
+%Name NOVELA NORTEAMERICANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1545
+%Name POESIAY PODER EN ROMA IMPERIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 1546
+%Name LAS FICCIONES DE LA SELVA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 2101
+%Name SEM. TEORIA  (TEORIA 3)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 2307
+%Name LITERATURA ESPA�OLA CONTEMPORA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 2401
+%Name GRIEGO III
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 3100
+%Name SEMINARIO DE INVESTIGACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 3101
+%Name MONOGRAFIA DE GRADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 3300
+%Name MODERNISMO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 3301
+%Name POESIA COLOMBIANA S XX
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 3305
+%Name CUENTO COLOMBIANO S XX
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 3313
+%Name BRUJAS Y MONJAS EN AMERICA LAT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 3400
+%Name LATIN IV
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 3403
+%Name SEMINARIO GRIEGO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 3501
+%Name PUSHKIN, GOGOL, GORKY: TEATRO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 3600
+%Name TALLER DE DOCENCIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 3603
+%Name PRACTICA PROFESIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 3605
+%Name TALLER DE CREACI�N. POESIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id LITE 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4104
+%Name EMPRESARIADO E INNOVACION
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4105
+%Name SIMULACION GERENCIAL
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4201
+%Name FINANZAS CORPORTIVAS
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4206
+%Name GERENCIA FINANCIERA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4211
+%Name MERCADO DE CAPITALES
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4216
+%Name GESTION DE RIESGOS FINANCIEROS
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4217
+%Name DERIVADOS
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4218
+%Name PLANEACION TRIBUTARIA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4219
+%Name ESTRATEGIA FINANCIERA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4302
+%Name GERENCIA DE VENTAS
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4303
+%Name GERENCIA DE MERCADEO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4306
+%Name MODELOS DE MERCADEO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4307
+%Name INNOVACION Y DLLO DE PRODUCTOS
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4308
+%Name COMUNICACION INT. MERCADEO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4313
+%Name MERCADEO DE PRODUCTOS Y SERVIC
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4314
+%Name GERENCIA ESTRATEGICA DE MERCAD
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4316
+%Name INVESTIGACION DE MERCADOS
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4401
+%Name OPERACIONES Y LOGISTICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4402
+%Name TECNOLOGIAS DE INFORMACIO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4405
+%Name GLOBAL CONSULTING PRACTICUM
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4603
+%Name TEORIA Y ANALISIS ORGANIZACION
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4810
+%Name PLANEACION Y PRESUPUESTO PUB.
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4815
+%Name DERE.CONSTITUCION.ADMINISTR.
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4816
+%Name FINANCIAMIENTO PUBLICO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4817
+%Name LA GESTION Y POLITICA COLOMBIA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4901
+%Name TALLER DE ETICA Y FORMAC.HUMAN
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4902
+%Name SEMINARIO PROYECTO GRADO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4903
+%Name TALLER DE COMUNICACION
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4904
+%Name PROYECTO DE GRADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4908
+%Name TALLER DE NEGOCIACION
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MADM 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1002
+%Name MATEMATICAS Y CIVILIZACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1011
+%Name SEMINARIO DE MAT. APLICADAS
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1101
+%Name MATEMATICAS DISCRETAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1102
+%Name MATEMATICA ESTRUCTURAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1105
+%Name ALGEBRA LINEAL 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1108
+%Name ALG.LINEAL Y EC.DIFERENCIALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1201
+%Name PRECALCULO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1203
+%Name CALCULO DIFERENCIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1204
+%Name CALCULO DIFERENCIAL (HONORES)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1205
+%Name CALCULO INTEGRAL
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1207
+%Name CALCULO VECTORIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1209
+%Name CALCULO 3 (ECONOMIA,ADMON)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1212
+%Name MATEMATICAS 1 (BIO MED)
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1213
+%Name MATEMATICAS 3 (BIO MED)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1401
+%Name PATRONES, FORMA Y CANTIDAD 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1402
+%Name PATRONES, FORMA Y CANTIDAD 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1405
+%Name GEOM.EUCLIDEA Y NO EUCLIDEA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1408
+%Name MOD.MATE.Y SIMU.NUM.EN ARQUT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1501
+%Name ESTADISTICA 1 (C.SOCIALES)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1504
+%Name ESTADISTICA 2 (PSICOLOGIA)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1505
+%Name PROB. Y ESTADISTICA 1(ECON)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1506
+%Name PROB.Y ESTADISTICA 2(ECON)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 1507
+%Name MATEMATICAS 2 (BIO MED)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 2101
+%Name ALGEBRA ABSTRACTA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 2201
+%Name ANALISIS 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 2210
+%Name CALC DE VARIABLE COMPLEJ (ING)
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MATE 2301
+%Name ECUACIONES DIFERENCIALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 2301
+%Name ECUAC. DIFERENCIALES (INGLES)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 2301
+%Name ECUACIONES DIFERENCIALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 2501
+%Name NIVELACION EN MATEM.(PEG.)
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MATE 2502
+%Name NIVELACION DE ESTADISTIC (PEG)
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MATE 2505
+%Name ESTADISTICA (BIO MED)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 2510
+%Name PROBABILIDAD (HONOR)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 2601
+%Name ANALISIS NUMERICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 2710
+%Name ECONOMIA MATEMATICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 2712
+%Name INTRO. MATEMATICAS FINANCIERAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 3101
+%Name ALGEBRA ABSTRACTA 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 3130
+%Name TEORIA DE CONJUNTOS 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 3420
+%Name TOPOLOGIA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 3801
+%Name PRACTICA ENSENANZA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 3802
+%Name PRACTICA ENSENANZA 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 3901
+%Name SEMINARIO DE PROYECTO DE GRADO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MATE 3902
+%Name PROYECTO DE GRADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id MATE 4101
+%Name ALGEBRA CONMUTATIVA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MATE 4108
+%Name TEMAS EN ALGEBRA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MATE 4151
+%Name INTRO.A LAS CURVAS ALGEBRAICAS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MATE 4210
+%Name ANALISIS COMPLEJO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MATE 4330
+%Name ANALISIS  FUNCIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 4901
+%Name SEMINARIO DE POSTGRADO 1
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MATE 4902
+%Name SEMINARIO DE POSTGRADO 2
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MATE 4903
+%Name SEMINARIO DE TRABAJO DE GRADO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MATE 4904
+%Name TRABAJO DE GRADO
+%Credits 12
+%Level 2
+%Type NONE
+
+%Code_Id MATE 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id MATE 4998
+%Name INTERCAMBIO INTERNACIONAL
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 0000
+%Name INDUCCION
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 1100
+%Name BIOLOGIA CELULAR TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 1101
+%Name BIOLOGIA CELULAR LAB
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 1280
+%Name DESCIFRANDO EL GENOMA HUMANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 1580
+%Name CIENCIA FICCION O REALIDAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2100
+%Name BIOQUIMICA TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2101
+%Name BIOQUIMICA LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2102
+%Name BIOLOGIA MOLECULAR TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2103
+%Name BIOLOGIA MOLECULAR LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2300
+%Name BACTERIOLOGIA TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2301
+%Name BACTERIOLOGIA LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2302
+%Name BIOLOGIA DE HONGOS TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2303
+%Name BIOLOGIA DE HONGOS LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2304
+%Name PARASITOLOGIA TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2305
+%Name PARASITOLOGIA LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2306
+%Name VIROLOGIA TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2307
+%Name VIROLOGIA LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2400
+%Name BIOESTADISTICA TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2401
+%Name BIOESTADISTICA LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2500
+%Name INMUNOLOGIA TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 2501
+%Name INMUNOLOGIA LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3104
+%Name DIVER.BIOLOG.IDENTIF.FORENSE
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3502
+%Name MICROBIOLOGIA MEDICA TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3503
+%Name MICROBIOLOGIA MEDICA LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3600
+%Name FITOPATOLOGIA TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3601
+%Name FITOPATOLOGIA LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3602
+%Name MICROBIOLOGIA DE ALIMENTOS TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3603
+%Name MICROBIOLOGIA DE ALIMENTOS LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3604
+%Name MICROBIOLOGIA AMBIENTAL TEO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3605
+%Name MICROBIOLOGIA AMBIENTAL LAB
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3614
+%Name MANEJO AMBIENTAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3902
+%Name HERRAMIENTAS EN ADMINISTRACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3903
+%Name MONOGRAFIA OPCION EN ALIMENTOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3904
+%Name PREPRACTICA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3907
+%Name PROYECTO DE GRADO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3908
+%Name TRABAJO DE GRADO
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3991
+%Name PRACTICA PROFESIONAL
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3992
+%Name PRACTICA PROFESIONAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 3993
+%Name PRACTICA DE GRADO
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 4101
+%Name DIVERSIDAD MOLECULAR BACTERIAS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 4108
+%Name BIOQUIMICA DE PROTEINAS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 4109
+%Name INMUNOVIROLOGIA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 4110
+%Name BIOL.MOLEC.Y BIOTECN.HONG.PLAN
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 4512
+%Name GENETICA TOXICOLOGICA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 4518
+%Name INTROD.EPIDEMIOL.MOLEC.PARASIT
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 4900
+%Name CONVENIO I
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 4901
+%Name CONVENIO II
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 4902
+%Name PROYECTO DE GRADO MAESTRIA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 4905
+%Name TRABAJO DE GRADO MAESTRIA 1
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 4906
+%Name TRABAJO DE GRADO MAESTRIA 2
+%Credits 8
+%Level 2
+%Type NONE
+
+%Code_Id MBIO 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id MDER 4202
+%Name RETOS AL DERECHO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MDER 4202
+%Name RETOS AL DERECHO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MDER 4203
+%Name COLOQUIO DE INVESTIGACION
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MDER 4301
+%Name TUTORIA I
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MDER 4302
+%Name TUTORIA II
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MDER 4303
+%Name TUTORIA  III
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MDER 4401
+%Name MONOGRAFIA DE GRADO
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id MDER 4403
+%Name MONOGRAF�A DE GRADO 4TA. PROM.
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id MDER 4503
+%Name DER. CONSTITUCIONAL AVANZADO
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MDER 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id MEDI 1101
+%Name INTRODUCCION A LA MEDICINA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MEDI 1201
+%Name FUNDAMENTOS DE MEDICINA SOCIAL
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MEDI 1202
+%Name MEDICINA SOCIAL I
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MEDI 1203
+%Name MODULO MEDICO PACIENTE I
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MEDI 1303
+%Name ANATOMIA
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id MEDI 1304
+%Name EMBRIOLOGIA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MEDI 1305
+%Name HISTOLOGIA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MEDI 1306
+%Name FISIOLOGIA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MEDI 1309
+%Name PATOLOGIA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MEDI 1310
+%Name FARMACOLOGIA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MEDI 1311
+%Name HISTOPATOLOGIA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MEDI 1319
+%Name ANATOMIA II
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1100
+%Name APRECIACION DE LA MUSICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1101
+%Name APRECIACION DE BLUES Y ROCK 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1102
+%Name APRECIACION DE BLUES Y ROCK 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1103
+%Name JAZZ: LEYENDA NEGRA,HIST DORAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1105
+%Name MUSICA SIGLOS XVII Y XVIII
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1107
+%Name MUSICA IMPOPULAR SIGLO XX
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1108
+%Name MUSICA,TRADICION Y CULT
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1109
+%Name CERVANTES Y SHAKESPEARE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1113
+%Name APRECIACION DEL SONIDO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1201
+%Name APRECIACION MUSICAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1202
+%Name ARMONIA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1203
+%Name ARMONIA 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1204
+%Name ARMONIA 3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1204
+%Name ARMONIA 3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1205
+%Name ENTREN AUDITIVO 1
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1206
+%Name ENTREN AUDITIVO 2
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1207
+%Name ENTREN AUDITIVO 3
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1208
+%Name PIANO COMPLEMENTARIO 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1209
+%Name PIANO COMPLEMENTARIO 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1210
+%Name PIANO COMPLEMENTARIO 3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1303
+%Name CORO DE CAMARA
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1400
+%Name INSTRUMENTO COMPL.1 SAXOFON
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1400
+%Name INSTRUMENTO COMPL.1 CANTO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1400
+%Name INSTRUMENTO COMPL.1 GUITARRA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1400
+%Name INSTRUMENTO COMPL.1 PIANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1401
+%Name INSTRUMENTO COMPL.2 CANTO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1401
+%Name INSTRUMENTO COMPL.2 PERCUSION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1401
+%Name INSTRUMENTO COMPL.2 SAXOFON
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1402
+%Name INSTRUMENTO COMPL.3 PIANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1403
+%Name INSTRUMENTO COMPL. 4 CANTO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1405
+%Name INSTRUMENTO 1 CANTO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1405
+%Name INSTRUMENTO 1 VIOLIN
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1405
+%Name INSTRUMENTO 1 PIANO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1405
+%Name INSTRUMENTO 1 LAUD
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1405
+%Name INSTRUMENTO 1 PERCUSION
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1406
+%Name INSTRUMENTO 2 GUITARRA
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1406
+%Name INSTRUMENTO 2 FLAUTA
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1406
+%Name INSTRUMENTO 2 PIANO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1406
+%Name INSTRUMENTO 2 CANTO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1406
+%Name INSTRUMENTO 2 CONTRABAJO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1406
+%Name INSTRUMENTO 2 GUITARRA
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1406
+%Name INSTRUMENTO 2 VIOLIN
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1407
+%Name INSTRUMENTO 3 GUITARRA
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1800
+%Name ENSAMBLE DE JAZZ
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1802
+%Name CONJUNTO MUSICA ANTIGUA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1803
+%Name TALLER DE:JAZZ 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1804
+%Name TALLER DE JAZZ 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1807
+%Name TALLER MIDI (ELECTIVA OPCION)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1808
+%Name TECNICAS GRABACION 1 (OPCION)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1812
+%Name CONJUNTO DE MUSICA COLOMBIANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1813
+%Name TECNICA ALEXANDER
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 1814
+%Name SOLFEO PARA CANTANTES
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2200
+%Name PIANO COMPLEMENTARIO 4
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2201
+%Name PIANO COMPLEMENTARIO 5
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2202
+%Name PIANO COMPLEMENTARIO 6
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2203
+%Name ENTREN AUDITIVO 4
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2205
+%Name ARMONIA 4
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2209
+%Name CONTRAPUNTO 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2210
+%Name CONTRAPUNTO AVANZADO 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2211
+%Name CONTRAPUNTO AVANZADO 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2212
+%Name MORFOLOGIA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2301
+%Name FUND DIRECCION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2302
+%Name DIRECCION CORAL 1
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2400
+%Name CONJUNTO 2 GUITARRA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2400
+%Name CONJUNTO 2 CANTO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2400
+%Name CONJUNTO 2 PIANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2401
+%Name CONJUNTO 3 GUITARRA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2401
+%Name CONJUNTO 3 PIANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2401
+%Name CONJUNTO 3 PIANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2402
+%Name CONJUNTO 4 GUITARRA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2402
+%Name CONJUNTO 4 CANTO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2402
+%Name CONJUNTO 4 PIANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2402
+%Name CONJUNTO 4 PERCUSION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2403
+%Name CONJUNTO 5 TROMPETA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2404
+%Name INSTRUMENTO 4 GUITARRA
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2404
+%Name INSTRUMENTO 4 CANTO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2405
+%Name INSTRUMENTO 5 VIOLIN
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2405
+%Name INSTRUMENTO 5 GUITARRA
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2405
+%Name INSTRUMENTO 5 PIANO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2405
+%Name INSTRUMENTO 5 PIANO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2405
+%Name INSTRUMENTO 5 TROMPETA
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2406
+%Name INSTRUMENTO 6 CANTO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2406
+%Name INSTRUMENTO 6 PIANO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2406
+%Name INSTRUMENTO 6 PERCUSION
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2406
+%Name INSTRUMENTO 6 GUITARRA
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2500
+%Name TALLER DE  COMPOSICION 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2500
+%Name TALLER DE  COMPOSICION 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2501
+%Name TALLER DE  COMPOSICION 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2502
+%Name INSTRUMENTACION 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2503
+%Name INSTRUMENTACION 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2503
+%Name INSTRUMENTACION 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2505
+%Name COMPOSICION 2
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2505
+%Name COMPOSICION 2
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2505
+%Name COMPOSICION 2
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2600
+%Name TALLER MIDI (SOLO MUSI)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2600
+%Name TALLER MIDI (SOLO MUSI)
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2602
+%Name SONIDO EN VIVO 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2603
+%Name AUDIO BASICO 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2604
+%Name SINTESIS SONORA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2606
+%Name AUDICION CRITICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2607
+%Name SONIDO EN VIVO 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2608
+%Name TALLER DE GRABACION 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 2609
+%Name AUDIO BASICO 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3303
+%Name CONCIERTO GRADO DIR CORAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3400
+%Name CONJUNTO 6 PIANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3401
+%Name CONJUNTO 7 PIANO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3401
+%Name CONJUNTO 7 FLAUTA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3402
+%Name CONJUNTO 8 GUITARRA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3402
+%Name CONJUNTO 8 CANTO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3402
+%Name CONJUNTO 8 CONTRABAJO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3402
+%Name CONJUNTO 8 CLARINETE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3403
+%Name INSTRUMENTO 8 PIANO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3403
+%Name INSTRUMENTO 8 CONTRABAJO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3403
+%Name INSTRUMENTO 8 FLAUTA
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3404
+%Name INSTRUMENTO 9 PIANO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3404
+%Name INSTRUMENTO 9 CANTO
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3405
+%Name INSTRUMENTO 10 GUITARRA
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3406
+%Name RECITAL GRADO CLARINETE
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3406
+%Name RECITAL GRADO GUITARRA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3501
+%Name INSTRUMENTACION 4
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3503
+%Name COMPOSICION 4
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3503
+%Name COMPOSICION 4
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3600
+%Name ACUSTICA MUSICAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3601
+%Name TALLER DE GRABACION 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3603
+%Name AUDIO DIGITAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3604
+%Name TALLER DE GRABACION 3
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3605
+%Name POSTPROD AUDIO PARA IMAGEN
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id MUSI 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id PERI 1001
+%Name MEDIOS, PERIODISMO Y PODER
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PERI 1002
+%Name PERIODISMO Y ESCRITURA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 3140
+%Name GENERO, IDENTIDAD Y DLLO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 4210
+%Name SEMINARIO DE INVESTIGACION 2
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 4211
+%Name SUSTENTACION TRABAJO DE GRADO
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 4215
+%Name METODOLOGIA DE INVESTIGACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 4232
+%Name SEM. INST. SOC. CIV Y DEMO I
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 4233
+%Name SEM. DES. ECO. LOCAL Y REGIO I
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 4234
+%Name SEM. VULNERABIL Y DESIGUA I
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5105
+%Name METOD.Y TECNICAS PLANIFICACION
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5107
+%Name ACCION.COLEC, SOCIE.CIVIL.DEMO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5108
+%Name ECONOMIA PUBLICA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5109
+%Name ENFOQUES DEL DESARR. REGIONAL
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5111
+%Name INSTITUCI.ORGANIZ.Y ACTORES
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5113
+%Name TEORIAS DE DESARROLLO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5202
+%Name GESTION AMBIENTAL
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5207
+%Name GEOINFORMAT.GESTION TERRITORIA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5214
+%Name GESTION DE PROYECTOS DE DLLO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5215
+%Name FINANZAS PUBLI.TERRIT.Y PRESU
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5302
+%Name ECONOMIA Y TERRITORIO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5304
+%Name INSTRUMENTOS GESTION DEL SUELO
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5305
+%Name TALLER ORDENAMIENTO TERRITORIA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PLAN 5309
+%Name PLANIF.BIOFISICA DEL TERRITOR.
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1000
+%Name SEXUALIDAD HUMANA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1001
+%Name DROGAS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1002
+%Name TALLER MANEJO DE ESTRES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1003
+%Name PROC.AMOR ENAMORAMIENTO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1004
+%Name VIDA EN PAREJA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1006
+%Name PSICOANALISIS PARA NO PSICOLOG
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1100
+%Name PSICOLOGIA SOCIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1102
+%Name CIUDADANIA Y VINCULOS SOCIALES
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1110
+%Name PUBLICIDAD USOS Y ABUSOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1200
+%Name NEUROANATOMIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1201
+%Name LAB.NEUROANATOMIA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1202
+%Name PSICOFISIOLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1203
+%Name LAB.PSICOFISIOLOGIA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1300
+%Name PERCEPCION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1301
+%Name LABORATORIO PERCEPCION
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1400
+%Name INTRODUCCION A LA PSICOLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 1401
+%Name HIST.CONTEMPOR.PSICOLOGIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2300
+%Name MEMORIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2301
+%Name LABORATORIO DE MEMORIA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2306
+%Name MOTIVACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2307
+%Name LAB.MOTIVACION
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2308
+%Name PENSAMIENTO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2309
+%Name LABORATORIO DE PENSAMIENTO
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2412
+%Name GRANDES OBRAS: FREUD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2414
+%Name NUEVA PSICOLOG�A DEL G�NERO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2415
+%Name GRANDES OBRS: VIGOTSKY
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2500
+%Name INTROD.PSICOLOG.SOCIAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2502
+%Name PSICOLOGIA SOCIAL ANALITICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2600
+%Name ENTREVISTA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2601
+%Name PSICOMETRIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2602
+%Name EVALUACION
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2700
+%Name METODOS CUANTITATIVOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2701
+%Name METODOS CUALITATIVOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2702
+%Name PRACTICA INVESTIGATIVA 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2703
+%Name PRACTICA INVESTIGATIVA 2A
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2704
+%Name PRACTICA INVESTIGATIVA 2B
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 2705
+%Name PRACTICA INVESTIGATIVA 3A
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3700
+%Name PRACTICA INVESTIGATIVA 3B
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3701
+%Name TRABAJO DE GRADO 1 98
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3702
+%Name TRABAJO DE GRADO  2 98
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3703
+%Name TRABAJO DE GRADO 1
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3800
+%Name PSICOLOGIA APLICADA
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3801
+%Name ETICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3802
+%Name PRACTICA PROFESIONAL 3B
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3803
+%Name EXAMEN FINAL DE CARRERA 1
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3804
+%Name EXAMEN FINAL DE CARRERA 2
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3805
+%Name PRACTICA PROFESIONAL 1 20H
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3806
+%Name PRACTICA PROFESIONAL 2 20H
+%Credits 5
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3807
+%Name PRACTICA PROFESIONAL  1 30H
+%Credits 9
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3808
+%Name PRACTICA PROFESIONAL 2 30H
+%Credits 9
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3902
+%Name ANORMAL 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3906
+%Name DESARROLLO 1
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3907
+%Name LAB.DESARROLLO 1
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3919
+%Name FUND. DE INTERVENCION CLINICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3955
+%Name PSICOLOG�A DEL CONSUMIDOR
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3956
+%Name AMIG. Y ENEMIG: CONC. AMISTAD
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3957
+%Name PSICOBIOLOG�A DEL ESTR�S
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3958
+%Name ESTUDIO DEL TIEMPO EN PSIC.
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3959
+%Name SEM. EDUC. PARA LA CONVIVENCIA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 3990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 4100
+%Name DISE�O DE PROY. DE INVEST I
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 4103
+%Name TESIS Y COLOQUIO II
+%Credits 6
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 4105
+%Name METODOS CUALITATIVOS AVANZADOS
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 4106
+%Name DISE� PROY. INVES II COLOQUIOI
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 4107
+%Name DISE�OPROY.INVESTIII COLOQU II
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 4108
+%Name DISE�O PROY INVES IV COLOQ III
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 4200
+%Name SEM.EVALUACION PROY Y PROGRAMA
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 4206
+%Name TENDENCIAS DE INVESTIGACION
+%Credits 4
+%Level 2
+%Type NONE
+
+%Code_Id PSIC 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 1000
+%Name INTRODUCCION A QUIMICA
+%Credits 0
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 1001
+%Name QUIMICA, LEYES Y CONCEPTOS
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 1101
+%Name QUIMICA GENERAL
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 1102
+%Name LABORATORIO DE QUIMICA GENERAL
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 1103
+%Name QUIMICA
+%Credits 2
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 1104
+%Name LABORATORIO DE QUIMICA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 1201
+%Name QUIMICA INORGANICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 1202
+%Name LABORATORIO DE QUIMICA INORGAN
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 1301
+%Name QUIMICA ORGANICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 1302
+%Name LABORATORIO DE QUIMICA ORGANIC
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 2516
+%Name FISICOQUIMICA
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 2517
+%Name LABORATORIO DE FISICOQUIMICA
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 2616
+%Name ANALISIS QUIMICO
+%Credits 3
+%Level 2
+%Type NONE
+
+%Code_Id QUIM 2617
+%Name LABORAT. DE ANALISIS QUIMICO
+%Credits 1
+%Level 2
+%Type NONE
+
+%Code_Id REGU 4000
+%Name SEMINARIO MAESTRIA
+%Credits 0
+%Level 4
+%Type NONE
+
+%Code_Id REGU 4005
+%Name COMPETENCIA Y REGULACION
+%Credits 4
+%Level 4
+%Type NONE
+
+%Code_Id REGU 4006
+%Name TUTORIAL 1
+%Credits 4
+%Level 4
+%Type NONE
+
+%Code_Id REGU 4007
+%Name TUTORIAL 2
+%Credits 4
+%Level 4
+%Type NONE
+
+%Code_Id REGU 4008
+%Name TESIS 1
+%Credits 4
+%Level 4
+%Type NONE
+
+%Code_Id REGU 4009
+%Name TESIS 2
+%Credits 4
+%Level 4
+%Type NONE
+
+%Code_Id REGU 4990
+%Name INSCRIPCION A GRADO
+%Credits 0
+%Level 4
+%Type NONE
+
+%Code_Id STRA 5410
+%Name PROBABILIDAD Y ESTADISTICA
+%Credits 2
+%Level 5
+%Type NONE
+
+%Code_Id STRA 5411
+%Name ECONOMIA DE LA ELECTRICIDAD
+%Credits 2
+%Level 5
+%Type NONE
+
+%Code_Id STRA 5413
+%Name ANALISIS FINACIERO
+%Credits 2
+%Level 5
+%Type NONE
+
+%Code_Id STRA 5414
+%Name SISTEMAS DE TRANSMISION
+%Credits 2
+%Level 5
+%Type NONE
+
+%Code_Id TELE 5610
+%Name TELETRAFICO 1
+%Credits 2
+%Level 5
+%Type NONE
+
+%Code_Id TELE 5611
+%Name TRANSMISION DIGITAL
+%Credits 2
+%Level 5
+%Type NONE
+
+%Code_Id TELE 5612
+%Name REDES DE INTERNET
+%Credits 2
+%Level 5
+%Type NONE
+
+%Code_Id TELE 5621
+%Name SEGURIDAD EN REDES
+%Credits 2
+%Level 5
+%Type NONE

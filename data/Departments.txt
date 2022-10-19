@@ -1,0 +1,10 @@
+%Id 1
+%Name Sistemas
+%Faculty 1
+%Programs Ingenieria de Sistemas y Computacion
+%Courses ISIS 2501,ISIS 2701,ISIS 2102,ISIS 2202,ISIS 1010
+
+%Id 2
+%Faculty 1
+%Name Electrica & Electronica
+%Programs Ingenieria Electronica,Ingenieria Electrica

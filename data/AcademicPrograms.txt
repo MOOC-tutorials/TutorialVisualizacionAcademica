@@ -1,0 +1,9 @@
+%Id 1
+%Name Ingenieria de Sistemas y Computacion
+%Code ISIS
+%Coordinator sarueda 
+
+%Id 2
+%Name Ingenieria Electronica
+%Code IELE
+%Coordinator fefon
