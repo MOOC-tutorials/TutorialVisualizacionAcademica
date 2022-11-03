@@ -22,60 +22,15 @@ public class CFacultyTest extends TestCase {
 		super.tearDown();
 	}
 	
-	public void testGetDepartmentFormAcademiProgram()
-	{
-		CDepartment depart = new CDepartment("ingenieria");
-		faculty.addDepartment("ingnieria");
-		depart.addAcademicProgram("ing sist", "ISIS");
-		this.assertEquals(depart, faculty.getDepartmentFromAcadProg("ing sist"));
-	}
-	
-	public void testAddGetDepartment()
-	{
-		CodRes res;
-		String sName = "Ingenieria Civil y Ambiental"; 
-		res = faculty.addDepartment(sName);
-		this.assertTrue(res == CodRes.SUCCESS);
-		
-		res = faculty.addDepartment(sName);
-		this.assertTrue(res == CodRes.ALREADY_EXISTS);			
-	}
-	
-	public void testGetDepartment()
-	{
-		//devuelve algo de tipo CDepartment
-		CDepartment depart = new CDepartment("ingenieria");
-		faculty.addDepartment("ingenieria");
-		this.assertEquals(depart, faculty.getDepartment("ingenieria"));
-	}
-	
 	public void testGetAcademicPRogram()
 	{
 		//devuelve algo de tipo CAcademicProgram
 	}
 	
-	public void testAddDepartmentOK()
-	{
-		CodRes res;
-		String sName = "Ingenieria Civil y Ambiental"; 
-		res = faculty.addDepartment(sName);
-		this.assertTrue(res == CodRes.SUCCESS);
-	}
-	
-	public void testAddDepartmentAlreadyExist()
-	{
-		CodRes res;
-		String sName = "Ingenieria Civil y Ambiental"; 
-		res = faculty.addDepartment(sName);
-		this.assertTrue(res == CodRes.SUCCESS);
-		
-		res = faculty.addDepartment(sName);
-		this.assertTrue(res == CodRes.ALREADY_EXISTS);			
-	}
 	
 	public void testGetName()
 	{
-		this.assertEquals("ingenieria",faculty.getSName());
+		this.assertEquals("ingenieria",faculty.getName());
 	}
 
 }

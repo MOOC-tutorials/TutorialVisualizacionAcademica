@@ -24,46 +24,8 @@ public class CManagerTest extends TestCase {
 		super.tearDown();
 	}
 	
-	public void testAddDepartmentOK()
-	{	
-		CodRes res = manager.addDepartment("ingenieria de sistemas", "ingenieria");
-		this.assertEquals(res, CodRes.SUCCESS);
-	}
-	
-	public void testAddAcademicProgramWrongData()
-	{
-		String sFaculty = "";
-		String sDepartment = "Ingenieria de Sistemas";
-		String sProgramName = "Ingenieria de Sistemas y Computacion";
-		String sProgramCode = "ISIS";
-		CodRes res = manager.addAcademicProgram(sFaculty, sDepartment, sProgramName, sProgramCode);
-		this.assertTrue(res == CodRes.INVALID_ARGUMENTS);	
-		
-	}
-	public void testAddAcademicProgramISIS()
-	{
-		String sFaculty = "Ingenieria";
-		String sDepartment = "Ingenieria de Sistemas";
-		String sProgramName = "Ingenieria de Sistemas y Computacion";
-		String sProgramCode = "ISIS";
-		CodRes res = manager.addAcademicProgram(sFaculty, sDepartment, sProgramName, sProgramCode);
-		this.assertTrue(res == CodRes.SUCCESS);		
-	}
-	
-	public void testAddTwoEqualPrograms()
-	{
-		addAcademicProgramISIS();
-		String sFaculty = "Ingenieria";
-		String sDepartment = "Ingenieria de Sistemas";
-		String sProgramName = "Ingenieria de Sistemas y Computacion";
-		String sProgramCode = "ISIS";
-		CodRes res = manager.addAcademicProgram(sFaculty, sDepartment, sProgramName, sProgramCode);
-		this.assertTrue(res == CodRes.ALREADY_EXISTS);		
-	}
-
 	public void testAddStudentOK()
 	{
-		addAcademicProgramISIS();
 		CodRes res = manager.addStudent("Luis Miguel", "Perez D.", "yo@@yo.com", 200321051, "Cra bla", "CED", "8081629x", "3152940647", "Ama", "300 xxx xxxx", "ISIS");
 		this.assertTrue(res == CodRes.SUCCESS);
 	}
@@ -83,7 +45,6 @@ public class CManagerTest extends TestCase {
 		int pnLevel = 2;
 		String psArchive = "ISIS";
 		String psType = "OBL";
-		addAcademicProgramISIS();
 		CodRes res = manager.createCourse(psName, psCode, pfCreditNumber, pnLevel, psType, psArchive);
 		this.assertTrue(res == CodRes.SUCCESS);
 		
@@ -105,7 +66,6 @@ public class CManagerTest extends TestCase {
 		int pnLevel = 2;
 		String psArchive = "ISIS";
 		String psType = "OBL";
-		addAcademicProgramISIS();
 		CodRes res = manager.createCourse(psName, psCode, pfCreditNumber, pnLevel, psType, psArchive);
 		this.assertTrue(res == CodRes.INVALID_ARGUMENTS);		
 	}
@@ -118,7 +78,6 @@ public class CManagerTest extends TestCase {
 		int pnLevel = 2;
 		String psArchive = "ISIS";
 		String psType = "OBL";
-		addAcademicProgramISIS();
 		CodRes res = manager.createCourse(psName, psCode, pfCreditNumber, pnLevel, psType, psArchive);
 		this.assertTrue(res == CodRes.INVALID_ARGUMENTS);		
 	}
@@ -220,15 +179,5 @@ public class CManagerTest extends TestCase {
 		CodRes res = manager.deleteCourseFromCurriculum("ISIS2701");
 		this.assertTrue( res == CodRes.SUCCESS);
 	}
-	
-	public void addAcademicProgramISIS()
-	{
-		String sFaculty = "Ingenieria";
-		String sDepartment = "Ingenieria de Sistemas";
-		String sProgramName = "Ingenieria de Sistemas y Computacion";
-		String sProgramCode = "ISIS";
-		CodRes res = manager.addAcademicProgram(sFaculty, sDepartment, sProgramName, sProgramCode);	
-	}
-
 
 }

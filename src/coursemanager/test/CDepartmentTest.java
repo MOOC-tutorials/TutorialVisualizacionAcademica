@@ -107,7 +107,7 @@ public class CDepartmentTest extends TestCase {
 	
 	public void testGetName()
 	{
-		this.assertEquals("ingenieria", CDepart.getSName());
+		this.assertEquals("ingenieria", CDepart.getName());
 	}
 	
 	
